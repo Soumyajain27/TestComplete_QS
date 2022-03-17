@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44637.3628587963" objectName="Aliases.POWERPNT.StartUpDialog" objectLeft="0" objectTop="0" objectRight="1607" objectBottom="903" clickPointX="1584" clickPointY="14" imageFileName="tcvi481419968194881.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44637.3628819444" objectName="Aliases.POWERPNT.wndPPTFrameClass.FullpageUIHost.pane.paneBackstageView.client.paneHome.groupingHome.client.groupingNew.list.client.client.listitemBlankPresentation" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi481422156194882.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
