@@ -457,6 +457,1074 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="ganttChartAssistant" Key="{44E1DFB4-09E2-4371-8A5D-E1CE226313B6}">
+								<Image FileName="-1502194333" Left="0" Top="0" Right="1440" Bottom="782" />
+								<TypeInfo Item0="{F1561C47-1031-4EA5-9B76-B68579B91A02}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="ganttChartAssistant" />
+									</Property>
+									<Property Name="AccessibleRole">
+										<Value Value="Default" />
+									</Property>
+									<Property Name="AllowDrop">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AllowShowFocusCues">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AllowTheming">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="AllowTransparency">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AnalyticsName">
+										<Value Value="" />
+									</Property>
+									<Property Name="Anchor">
+										<Value Value="Top, Left" />
+									</Property>
+									<Property Name="AutoScale">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AutoScaleMode">
+										<Value Value="Dpi" />
+									</Property>
+									<Property Name="AutoScaleMode_3">
+										<Value Value="Dpi" />
+									</Property>
+									<Property Name="AutoScroll">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AutoSize">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AutoSize_2">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="AutoSizeMode">
+										<Value Value="GrowOnly" />
+									</Property>
+									<Property Name="AutoValidate">
+										<Value Value="EnablePreventFocusChange" />
+									</Property>
+									<Property Name="BackgroundImageLayout">
+										<Value Value="Tile" />
+									</Property>
+									<Property Name="Bottom">
+										<Value Value="911" Type="0" />
+									</Property>
+									<Property Name="CanFocus">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="CanSelect">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Capture">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="CausesValidation">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="CheckForIllegalCrossThreadCalls">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="ChildCount">
+										<Value Value="3" Type="0" />
+									</Property>
+									<Property Name="ClrClassName">
+										<Value Value="GanttChartAssistant" />
+									</Property>
+									<Property Name="ClrFullClassName">
+										<Value Value="StrategyCompass.QuickSlide.GanttChart.GanttChartAssistant" />
+									</Property>
+									<Property Name="CompanyName">
+										<Value Value="Strategy Compass GmbH" />
+									</Property>
+									<Property Name="ContainsFocus">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ControlBox">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ControlId">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="Created">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="DeviceDpi">
+										<Value Value="96" Type="0" />
+									</Property>
+									<Property Name="DialogResult">
+										<Value Value="None" />
+									</Property>
+									<Property Name="Disposing">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Dock">
+										<Value Value="None" />
+									</Property>
+									<Property Name="EnableAnalytics">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Enabled">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="EnableKeyMap">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Exists">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Focused">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="FormBorderStyle">
+										<Value Value="None" />
+									</Property>
+									<Property Name="FormBorderStyle_2">
+										<Value Value="Sizable" />
+									</Property>
+									<Property Name="FullName">
+										<Value Value="Sys.Process(&quot;POWERPNT&quot;).WinFormsObject(&quot;ganttChartAssistant&quot;)" />
+									</Property>
+									<Property Name="Handle">
+										<Value Value="*" />
+									</Property>
+									<Property Name="HasChildren">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Height">
+										<Value Value="782" Type="0" />
+									</Property>
+									<Property Name="HelpButton">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IconScaling">
+										<Value Value="SizeToFit" />
+									</Property>
+									<Property Name="Id">
+										<Value Value="*" />
+									</Property>
+									<Property Name="ImeMode">
+										<Value Value="NoControl" />
+									</Property>
+									<Property Name="InvokeRequired">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsAccessible">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsDesignMode">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsDisposed">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsHandleCreated">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="IsInitialized">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="IsLoaded">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="IsMdiChild">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsMdiContainer">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsMirrored">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="IsRestrictedWindow">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="KeyPreview">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Left">
+										<Value Value="240" Type="0" />
+									</Property>
+									<Property Name="MaximizeBox">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="MinimizeBox">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Modal">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ModifierKeys">
+										<Value Value="None" />
+									</Property>
+									<Property Name="MouseButtons">
+										<Value Value="None" />
+									</Property>
+									<Property Name="Name">
+										<Value Value="WinFormsObject(&quot;ganttChartAssistant&quot;)" />
+									</Property>
+									<Property Name="Opacity">
+										<Value Value="1" Type="2" />
+									</Property>
+									<Property Name="ProductName">
+										<Value Value="StrategyCompass.QuickSlide.GanttChart" />
+									</Property>
+									<Property Name="ProductVersion">
+										<Value Value="21.1.7823.31650" />
+									</Property>
+									<Property Name="RecreatingHandle">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Right">
+										<Value Value="1680" Type="0" />
+									</Property>
+									<Property Name="RightToLeft">
+										<Value Value="No" />
+									</Property>
+									<Property Name="RightToLeftLayout">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="ScreenLeft">
+										<Value Value="240" Type="0" />
+									</Property>
+									<Property Name="ScreenTop">
+										<Value Value="129" Type="0" />
+									</Property>
+									<Property Name="ShowIcon">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ShowIcon_2">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ShowInTaskbar">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="ShowItemToolTips">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="SizeGripStyle">
+										<Value Value="Auto" />
+									</Property>
+									<Property Name="StartPosition">
+										<Value Value="CenterParent" />
+									</Property>
+									<Property Name="TabIndex">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="TabIndex_3">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="TabStop">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="TabStop_2">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Text">
+										<Value Value="Gantt Chart Assistant" />
+									</Property>
+									<Property Name="ThemeClassName">
+										<Value Value="Telerik.WinControls.UI.RadForm" />
+									</Property>
+									<Property Name="ThemeName">
+										<Value Value="QuickslideTheme" />
+									</Property>
+									<Property Name="Top">
+										<Value Value="129" Type="0" />
+									</Property>
+									<Property Name="TopLevel">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="TopMost">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Unicode">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="UseWaitCursor">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="Visible">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="VisibleOnScreen">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="Width">
+										<Value Value="1440" Type="0" />
+									</Property>
+									<Property Name="WindowState">
+										<Value Value="Normal" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Gantt Chart Assistant" />
+									</Property>
+									<Property Name="WndClass">
+										<Value Value="WindowsForms10.Window.8.app.0.2c1a56c_r86_ad2" />
+									</Property>
+									<Property Name="WndStyles">
+										<Value Value="382468096" Type="0" />
+									</Property>
+									<Property Name="WndStylesEx">
+										<Value Value="327936" Type="0" />
+									</Property>
+									<Property Name="analyticsName_2">
+										<Value Value="" />
+									</Property>
+									<Property Name="autoScaleMode_2">
+										<Value Value="Dpi" />
+									</Property>
+									<Property Name="autoValidate_2">
+										<Value Value="Inherit" />
+									</Property>
+									<Property Name="cachedAutoScaleMode">
+										<Value Value="Dpi" />
+									</Property>
+									<Property Name="checkForIllegalCrossThreadCalls_2">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="clientHeight">
+										<Value Value="747" Type="0" />
+									</Property>
+									<Property Name="clientWidth">
+										<Value Value="1432" Type="0" />
+									</Property>
+									<Property Name="closeReason_2">
+										<Value Value="None" />
+									</Property>
+									<Property Name="controlStyle">
+										<Value Value="ContainerControl, UserPaint, StandardClick, Selectable, StandardDoubleClick, AllPaintingInWmPaint, OptimizedDoubleBuffer, UseTextForAccessibility" />
+									</Property>
+									<Property Name="dialogResult_2">
+										<Value Value="None" />
+									</Property>
+									<Property Name="disposing_2">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="enableAnalytics_2">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="fontMeasureString">
+										<Value Value="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" />
+									</Property>
+									<Property Name="formBorderStyle_3">
+										<Value Value="Sizable" />
+									</Property>
+									<Property Name="height_2">
+										<Value Value="782" Type="0" />
+									</Property>
+									<Property Name="HighOrderBitMask">
+										<Value Value="128" Type="0" />
+									</Property>
+									<Property Name="ignoreWmImeNotify_2">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="ImeCharsToIgnoreDisabled">
+										<Value Value="-1" Type="0" />
+									</Property>
+									<Property Name="ImeCharsToIgnoreEnabled">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="inCrossThreadSafeCall">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="isInitialized_2">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="isInitializing">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="lastLanguageChinese">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="layoutSuspendCount">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="loaded">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="mouseWheelInit">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="mouseWheelMessage">
+										<Value Value="522" Type="0" />
+									</Property>
+									<Property Name="mouseWheelRoutingNeeded">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="needToLoadComCtl">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="oldState">
+										<Value Value="Normal" />
+									</Property>
+									<Property Name="PaintLayerBackground">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="PaintLayerForeground">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="PropAcceptButton">
+										<Value Value="47" Type="0" />
+									</Property>
+									<Property Name="PropAccessibility">
+										<Value Value="19" Type="0" />
+									</Property>
+									<Property Name="PropAccessibleDefaultActionDescription">
+										<Value Value="17" Type="0" />
+									</Property>
+									<Property Name="PropAccessibleDescription">
+										<Value Value="18" Type="0" />
+									</Property>
+									<Property Name="PropAccessibleHelpProvider">
+										<Value Value="28" Type="0" />
+									</Property>
+									<Property Name="PropAccessibleName">
+										<Value Value="22" Type="0" />
+									</Property>
+									<Property Name="PropAccessibleRole">
+										<Value Value="23" Type="0" />
+									</Property>
+									<Property Name="PropActiveMdiChild">
+										<Value Value="64" Type="0" />
+									</Property>
+									<Property Name="PropActiveXImpl">
+										<Value Value="25" Type="0" />
+									</Property>
+									<Property Name="propagatingImeMode_2">
+										<Value Value="Inherit" />
+									</Property>
+									<Property Name="PropAmbientPropertiesService">
+										<Value Value="38" Type="0" />
+									</Property>
+									<Property Name="PropAutoScrollOffset">
+										<Value Value="30" Type="0" />
+									</Property>
+									<Property Name="PropAxContainer">
+										<Value Value="75" Type="0" />
+									</Property>
+									<Property Name="PropBackBrush">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="PropBackColor">
+										<Value Value="5" Type="0" />
+									</Property>
+									<Property Name="PropBackgroundImage">
+										<Value Value="8" Type="0" />
+									</Property>
+									<Property Name="PropBackgroundImageLayout">
+										<Value Value="27" Type="0" />
+									</Property>
+									<Property Name="PropBindingManager">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="PropBindings">
+										<Value Value="15" Type="0" />
+									</Property>
+									<Property Name="PropCacheTextCount">
+										<Value Value="36" Type="0" />
+									</Property>
+									<Property Name="PropCacheTextField">
+										<Value Value="37" Type="0" />
+									</Property>
+									<Property Name="PropCancelButton">
+										<Value Value="48" Type="0" />
+									</Property>
+									<Property Name="PropContextMenu">
+										<Value Value="11" Type="0" />
+									</Property>
+									<Property Name="PropContextMenuStrip">
+										<Value Value="29" Type="0" />
+									</Property>
+									<Property Name="PropControlsCollection">
+										<Value Value="4" Type="0" />
+									</Property>
+									<Property Name="PropControlVersionInfo">
+										<Value Value="26" Type="0" />
+									</Property>
+									<Property Name="PropCurMenu">
+										<Value Value="53" Type="0" />
+									</Property>
+									<Property Name="PropCurrentAmbientFont">
+										<Value Value="3" Type="0" />
+									</Property>
+									<Property Name="PropCursor">
+										<Value Value="12" Type="0" />
+									</Property>
+									<Property Name="PropDefaultButton">
+										<Value Value="49" Type="0" />
+									</Property>
+									<Property Name="PropDialogOwner">
+										<Value Value="50" Type="0" />
+									</Property>
+									<Property Name="PropDisableImeModeChangedCount">
+										<Value Value="34" Type="0" />
+									</Property>
+									<Property Name="PropDummyMenu">
+										<Value Value="52" Type="0" />
+									</Property>
+									<Property Name="PropFont">
+										<Value Value="7" Type="0" />
+									</Property>
+									<Property Name="PropFontHandleWrapper">
+										<Value Value="9" Type="0" />
+									</Property>
+									<Property Name="PropFontHeight">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="PropForeColor">
+										<Value Value="6" Type="0" />
+									</Property>
+									<Property Name="PropFormerlyActiveMdiChild">
+										<Value Value="65" Type="0" />
+									</Property>
+									<Property Name="PropFormMdiParent">
+										<Value Value="63" Type="0" />
+									</Property>
+									<Property Name="PropImeMode">
+										<Value Value="33" Type="0" />
+									</Property>
+									<Property Name="PropImeWmCharsToIgnore">
+										<Value Value="32" Type="0" />
+									</Property>
+									<Property Name="PropLastCanEnableIme">
+										<Value Value="35" Type="0" />
+									</Property>
+									<Property Name="PropMainMenu">
+										<Value Value="51" Type="0" />
+									</Property>
+									<Property Name="PropMainMenuStrip">
+										<Value Value="67" Type="0" />
+									</Property>
+									<Property Name="PropMaximizedBounds">
+										<Value Value="57" Type="0" />
+									</Property>
+									<Property Name="PropMaxTrackSizeHeight">
+										<Value Value="62" Type="0" />
+									</Property>
+									<Property Name="PropMaxTrackSizeWidth">
+										<Value Value="61" Type="0" />
+									</Property>
+									<Property Name="PropMdiChildFocusable">
+										<Value Value="66" Type="0" />
+									</Property>
+									<Property Name="PropMdiControlStrip">
+										<Value Value="69" Type="0" />
+									</Property>
+									<Property Name="PropMdiWindowListStrip">
+										<Value Value="68" Type="0" />
+									</Property>
+									<Property Name="PropMergedMenu">
+										<Value Value="54" Type="0" />
+									</Property>
+									<Property Name="PropMinTrackSizeHeight">
+										<Value Value="60" Type="0" />
+									</Property>
+									<Property Name="PropMinTrackSizeWidth">
+										<Value Value="59" Type="0" />
+									</Property>
+									<Property Name="PropName">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="PropNcAccessibility">
+										<Value Value="21" Type="0" />
+									</Property>
+									<Property Name="PropOpacity">
+										<Value Value="71" Type="0" />
+									</Property>
+									<Property Name="PropOwnedForms">
+										<Value Value="56" Type="0" />
+									</Property>
+									<Property Name="PropOwnedFormsCount">
+										<Value Value="58" Type="0" />
+									</Property>
+									<Property Name="PropOwner">
+										<Value Value="55" Type="0" />
+									</Property>
+									<Property Name="PropPaintingException">
+										<Value Value="24" Type="0" />
+									</Property>
+									<Property Name="PropRegion">
+										<Value Value="13" Type="0" />
+									</Property>
+									<Property Name="PropRightToLeft">
+										<Value Value="14" Type="0" />
+									</Property>
+									<Property Name="PropSecurityTip">
+										<Value Value="70" Type="0" />
+									</Property>
+									<Property Name="PropTransparencyKey">
+										<Value Value="72" Type="0" />
+									</Property>
+									<Property Name="PropUnsafeAccessibility">
+										<Value Value="20" Type="0" />
+									</Property>
+									<Property Name="PropUseCompatibleTextRendering">
+										<Value Value="31" Type="0" />
+									</Property>
+									<Property Name="PropUserData">
+										<Value Value="10" Type="0" />
+									</Property>
+									<Property Name="requiredScaling_2">
+										<Value Value="15" Type="0" />
+									</Property>
+									<Property Name="RequiredScalingEnabledMask">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="RequiredScalingMask">
+										<Value Value="15" Type="0" />
+									</Property>
+									<Property Name="resetRTLHScrollValue">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="restoredWindowBoundsSpecified">
+										<Value Value="None" />
+									</Property>
+									<Property Name="rightToLeftLayout_2">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="scrollState">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="SizeGripSize">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="StandardTaskTypeId">
+										<Value Value="t0" />
+									</Property>
+									<Property Name="state">
+										<Value Value="17432623" Type="0" />
+									</Property>
+									<Property Name="state2">
+										<Value Value="2124" Type="0" />
+									</Property>
+									<Property Name="STATE2_BECOMINGACTIVECONTROL">
+										<Value Value="32" Type="0" />
+									</Property>
+									<Property Name="STATE2_CLEARLAYOUTARGS">
+										<Value Value="64" Type="0" />
+									</Property>
+									<Property Name="STATE2_HAVEINVOKED">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="STATE2_INPUTCHAR">
+										<Value Value="256" Type="0" />
+									</Property>
+									<Property Name="STATE2_INPUTKEY">
+										<Value Value="128" Type="0" />
+									</Property>
+									<Property Name="STATE2_ISACTIVEX">
+										<Value Value="1024" Type="0" />
+									</Property>
+									<Property Name="STATE2_LISTENINGTOUSERPREFERENCECHANGED">
+										<Value Value="4" Type="0" />
+									</Property>
+									<Property Name="STATE2_SETSCROLLPOS">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="STATE2_UICUES">
+										<Value Value="512" Type="0" />
+									</Property>
+									<Property Name="stateParentChanged">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="stateProcessingMnemonic">
+										<Value Value="4" Type="0" />
+									</Property>
+									<Property Name="stateScalingChild">
+										<Value Value="8" Type="0" />
+									</Property>
+									<Property Name="stateScalingNeededOnLayout">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="stateValidating">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="suspendUpdateCounter">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="tabIndex_2">
+										<Value Value="-1" Type="0" />
+									</Property>
+									<Property Name="threadCallbackMessage">
+										<Value Value="49668" Type="0" />
+									</Property>
+									<Property Name="uiCuesState">
+										<Value Value="17" Type="0" />
+									</Property>
+									<Property Name="UISTATE_FOCUS_CUES_HIDDEN">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="UISTATE_FOCUS_CUES_MASK">
+										<Value Value="15" Type="0" />
+									</Property>
+									<Property Name="UISTATE_FOCUS_CUES_SHOW">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="UISTATE_KEYBOARD_CUES_HIDDEN">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="UISTATE_KEYBOARD_CUES_MASK">
+										<Value Value="240" Type="0" />
+									</Property>
+									<Property Name="UISTATE_KEYBOARD_CUES_SHOW">
+										<Value Value="32" Type="0" />
+									</Property>
+									<Property Name="updateCount">
+										<Value Value="0" Type="0" />
+									</Property>
+									<Property Name="updating">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="userWindowText">
+										<Value Value="Gantt Chart Assistant" />
+									</Property>
+									<Property Name="width_2">
+										<Value Value="1440" Type="0" />
+									</Property>
+									<Property Name="WM_GETCONTROLNAME">
+										<Value Value="49652" Type="0" />
+									</Property>
+									<Property Name="WM_GETCONTROLTYPE">
+										<Value Value="49653" Type="0" />
+									</Property>
+									<Property Name="wmWindowPosChangedProcessing">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="x">
+										<Value Value="240" Type="0" />
+									</Property>
+									<Property Name="y">
+										<Value Value="129" Type="0" />
+									</Property>
+									<Property Name="zcorpGanttChartFolder">
+										<Value Value="C:\Users\SoumyaJain\Strategy Compass GmbH\Strategy Compass Home - QS-Content\GanttChart" />
+									</Property>
+									<Property Name="zcurrentEnd">
+										<Value Value="45006" Type="4" />
+									</Property>
+									<Property Name="zcurrentEndDate">
+										<Value Value="44646" Type="4" />
+									</Property>
+									<Property Name="zcurrentStart">
+										<Value Value="44641" Type="4" />
+									</Property>
+									<Property Name="zcurrentStartDate">
+										<Value Value="44641" Type="4" />
+									</Property>
+									<Property Name="zlanguageId">
+										<Value Value="en" />
+									</Property>
+									<Property Name="zleftBorder">
+										<Value Value="0" Type="2" />
+									</Property>
+									<Property Name="zpptApp">
+										<Value Value="Microsoft PowerPoint" />
+									</Property>
+									<Property Name="zscaleFactor">
+										<Value Value="1.25" Type="2" />
+									</Property>
+									<Property Name="zstandardDuration">
+										<Value Value="5" Type="0" />
+									</Property>
+									<Property Name="zstandardTaskType">
+										<Value Value="Standard" />
+									</Property>
+									<Property Name="zsuppressGviPropertyChanged">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="zxmlnsUri">
+										<Value Value="quickslide:ganttChart:2018" />
+									</Property>
+									<Property Name="deviceDpi_2">
+										<Value Value="96" Type="0" />
+									</Property>
+									<Property Name="isBehaviorPrepared">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="isPainting">
+										<Value Value="False" Type="6" />
+									</Property>
+									<Property Name="ScrollStateAutoScrolling">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="ScrollStateFullDrag">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="ScrollStateHScrollVisible">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="ScrollStateUserHasScrolled">
+										<Value Value="8" Type="0" />
+									</Property>
+									<Property Name="ScrollStateVScrollVisible">
+										<Value Value="4" Type="0" />
+									</Property>
+									<Property Name="STATE_ALLOWDROP">
+										<Value Value="64" Type="0" />
+									</Property>
+									<Property Name="STATE_CAUSESVALIDATION">
+										<Value Value="131072" Type="0" />
+									</Property>
+									<Property Name="STATE_CHECKEDHOST">
+										<Value Value="16777216" Type="0" />
+									</Property>
+									<Property Name="STATE_CREATED">
+										<Value Value="1" Type="0" />
+									</Property>
+									<Property Name="STATE_CREATINGHANDLE">
+										<Value Value="262144" Type="0" />
+									</Property>
+									<Property Name="STATE_DISPOSED">
+										<Value Value="2048" Type="0" />
+									</Property>
+									<Property Name="STATE_DISPOSING">
+										<Value Value="4096" Type="0" />
+									</Property>
+									<Property Name="STATE_DOUBLECLICKFIRED">
+										<Value Value="67108864" Type="0" />
+									</Property>
+									<Property Name="STATE_DROPTARGET">
+										<Value Value="128" Type="0" />
+									</Property>
+									<Property Name="STATE_ENABLED">
+										<Value Value="4" Type="0" />
+									</Property>
+									<Property Name="STATE_EXCEPTIONWHILEPAINTING">
+										<Value Value="4194304" Type="0" />
+									</Property>
+									<Property Name="STATE_HOSTEDINDIALOG">
+										<Value Value="33554432" Type="0" />
+									</Property>
+									<Property Name="STATE_ISACCESSIBLE">
+										<Value Value="1048576" Type="0" />
+									</Property>
+									<Property Name="STATE_LAYOUTDEFERRED">
+										<Value Value="512" Type="0" />
+									</Property>
+									<Property Name="STATE_LAYOUTISDIRTY">
+										<Value Value="8388608" Type="0" />
+									</Property>
+									<Property Name="STATE_MIRRORED">
+										<Value Value="1073741824" Type="0" />
+									</Property>
+									<Property Name="STATE_MODAL">
+										<Value Value="32" Type="0" />
+									</Property>
+									<Property Name="STATE_MOUSEENTERPENDING">
+										<Value Value="8192" Type="0" />
+									</Property>
+									<Property Name="STATE_MOUSEPRESSED">
+										<Value Value="134217728" Type="0" />
+									</Property>
+									<Property Name="STATE_NOZORDER">
+										<Value Value="256" Type="0" />
+									</Property>
+									<Property Name="STATE_OWNCTLBRUSH">
+										<Value Value="2097152" Type="0" />
+									</Property>
+									<Property Name="STATE_PARENTRECREATING">
+										<Value Value="536870912" Type="0" />
+									</Property>
+									<Property Name="STATE_RECREATE">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="STATE_SIZELOCKEDBYOS">
+										<Value Value="65536" Type="0" />
+									</Property>
+									<Property Name="STATE_TABSTOP">
+										<Value Value="8" Type="0" />
+									</Property>
+									<Property Name="STATE_THREADMARSHALLPENDING">
+										<Value Value="32768" Type="0" />
+									</Property>
+									<Property Name="STATE_TOPLEVEL">
+										<Value Value="524288" Type="0" />
+									</Property>
+									<Property Name="STATE_TRACKINGMOUSEEVENT">
+										<Value Value="16384" Type="0" />
+									</Property>
+									<Property Name="STATE_USEWAITCURSOR">
+										<Value Value="1024" Type="0" />
+									</Property>
+									<Property Name="STATE_VALIDATIONCANCELLED">
+										<Value Value="268435456" Type="0" />
+									</Property>
+									<Property Name="STATE_VISIBLE">
+										<Value Value="2" Type="0" />
+									</Property>
+									<Property Name="STATE2_CURRENTLYBEINGSCALED">
+										<Value Value="8192" Type="0" />
+									</Property>
+									<Property Name="STATE2_INTERESTEDINUSERPREFERENCECHANGED">
+										<Value Value="8" Type="0" />
+									</Property>
+									<Property Name="STATE2_MAINTAINSOWNCAPTUREMODE">
+										<Value Value="16" Type="0" />
+									</Property>
+									<Property Name="STATE2_TOPMDIWINDOWCLOSING">
+										<Value Value="4096" Type="0" />
+									</Property>
+									<Property Name="STATE2_USEPREFERREDSIZECACHE">
+										<Value Value="2048" Type="0" />
+									</Property>
+									<Property Name="UseCompatibleTextRenderingDefault">
+										<Value Value="True" Type="6" />
+									</Property>
+									<Property Name="controlIsInitializingRootComponent">
+										<Value Value="False" Type="6" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="NetUIToolWindow" Key="{D12B5DBE-3B88-4702-B9F8-23A69A9686D1}">
+								<Image FileName="-1463060677" Left="0" Top="0" Right="182" Bottom="148" />
+								<TypeInfo Item0="{7F6E9355-001A-4FB5-BCD8-3301B1073BA0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Net UI Tool Window" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="popup" Key="{605A7595-0F22-417C-8374-062BE3FAA5B7}">
+										<Image FileName="-1463060677" Left="0" Top="0" Right="182" Bottom="148" />
+										<TypeInfo Item0="{B4E4ED10-D9DB-4EDB-ACCA-4E743F955889}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="NetUIHWND" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="client" Key="{B33278AD-E4BC-4AA5-A875-F18C281E2B01}">
+												<Image FileName="-1463060677" Left="2" Top="2" Right="180" Bottom="146" />
+												<TypeInfo Item0="{3805A612-D20B-435E-92A4-DF869386937E}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Client" />
+													</Property>
+													<Property Name="ControlIndex">
+														<Value Value="0" Type="0" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="grouping" Key="{C0AB7B69-D965-4A77-9ECD-62DD0D00AD1E}">
+														<Image FileName="-1463060677" Left="2" Top="2" Right="180" Bottom="146" />
+														<TypeInfo Item0="{3805A612-D20B-435E-92A4-DF869386937E}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Grouping" />
+															</Property>
+															<Property Name="ControlIndex">
+																<Value Value="0" Type="0" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="menuitemGantt" Key="{535CD436-3444-4BE9-9791-5DC3984E2952}">
+																<Image FileName="-1463060677" Left="2" Top="2" Right="180" Bottom="38" />
+																<TypeInfo Item0="{FC3117DA-5EBB-4E2E-933D-F191586BA7A6}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Gantt" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndNetUIToolWindow" Key="{01F0C7CE-F25F-48EF-8647-9ADBABF2AADF}">
+								<Image FileName="893793027" Left="0" Top="0" Right="182" Bottom="148" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Net UI Tool Window" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="popup" Key="{7070C8D7-97CD-4262-A3FD-B14270A908F8}">
+										<Image FileName="893793027" Left="0" Top="0" Right="182" Bottom="148" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="NetUIHWND" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="client" Key="{7E12B228-7DD8-4172-8F03-CA2E8178BE0C}">
+												<Image FileName="893793027" Left="2" Top="2" Right="180" Bottom="146" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Client" />
+													</Property>
+													<Property Name="ControlIndex">
+														<Value Value="0" Type="0" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="grouping" Key="{D540D628-0592-476D-A1F5-B287E007F50B}">
+														<Image FileName="893793027" Left="2" Top="2" Right="180" Bottom="146" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Grouping" />
+															</Property>
+															<Property Name="ControlIndex">
+																<Value Value="0" Type="0" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="menuitemGantt" Key="{255290AE-81E6-4329-A7C7-3BA2C94230FD}">
+																<Image FileName="893793027" Left="2" Top="2" Right="180" Bottom="38" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Gantt" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -513,6 +1581,25 @@
 									</Child>
 								</Child>
 							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="ganttChartAssistant" Owner="{44E1DFB4-09E2-4371-8A5D-E1CE226313B6}" />
+			<Child Name="NetUIToolWindow" Owner="{D12B5DBE-3B88-4702-B9F8-23A69A9686D1}">
+				<Child Name="popup" Owner="{605A7595-0F22-417C-8374-062BE3FAA5B7}">
+					<Child Name="client" Owner="{B33278AD-E4BC-4AA5-A875-F18C281E2B01}">
+						<Child Name="grouping" Owner="{C0AB7B69-D965-4A77-9ECD-62DD0D00AD1E}">
+							<Child Name="menuitemGantt" Owner="{535CD436-3444-4BE9-9791-5DC3984E2952}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndNetUIToolWindow" Owner="{01F0C7CE-F25F-48EF-8647-9ADBABF2AADF}">
+				<Child Name="popup" Owner="{7070C8D7-97CD-4262-A3FD-B14270A908F8}">
+					<Child Name="client" Owner="{7E12B228-7DD8-4172-8F03-CA2E8178BE0C}">
+						<Child Name="grouping" Owner="{D540D628-0592-476D-A1F5-B287E007F50B}">
+							<Child Name="menuitemGantt" Owner="{255290AE-81E6-4329-A7C7-3BA2C94230FD}" />
 						</Child>
 					</Child>
 				</Child>
