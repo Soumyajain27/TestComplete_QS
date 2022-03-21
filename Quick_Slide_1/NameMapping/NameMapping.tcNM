@@ -1487,6 +1487,21 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="menuitemWaterfall" Key="{55F2DFFE-07EC-41F3-AA33-86CDEAF42716}">
+																<Image FileName="1859622074" Left="2" Top="110" Right="180" Bottom="146" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Waterfall" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -1577,6 +1592,107 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="HwndSource_waterfallview" Key="{E08FD9E6-1746-4E1F-B4D7-6E5C50DC5ACA}">
+								<Image FileName="-1358421688" Left="0" Top="0" Right="1188" Bottom="533" />
+								<Properties>
+									<Property Name="RootVisual.Name">
+										<Value Value="waterfallview" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="waterfallview" Key="{8F52AB85-1512-44CB-9076-51DBB9A7F9EA}">
+										<Image FileName="-1358421688" Left="0" Top="0" Right="1189" Bottom="534" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="StrategyCompass.QuickSlide.SmartCharts.Views.WaterfallView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Button" Key="{5B04D74E-4265-4497-8F17-28E801C7038A}" ExtendedFind="True">
+												<Image FileName="-249148677" Left="1116" Top="1" Right="1187" Bottom="72" />
+												<TypeInfo Item0="{0C0B5BE2-5145-41E3-8B5F-F8B820F824B7}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Button" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="TextblockWaterfallChartWizard" Key="{F21BC26C-B6E1-4E64-986A-42636C60C579}" ExtendedFind="True">
+												<Image FileName="1202640821" Left="21" Top="17" Right="1117" Bottom="55" />
+												<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.TextBlock" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="Waterfall chart wizard" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Border" Key="{EC41D9E1-62BE-4AB0-AB11-A48FE464A5CA}" ExtendedFind="True">
+												<Image FileName="1202640821" Left="0" Top="0" Right="1189" Bottom="534" />
+												<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Border" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Grid" Key="{41236FA2-069D-4AAD-B96E-FB6D2D6F0E58}">
+														<Image FileName="1202640821" Left="1" Top="1" Right="1187" Bottom="532" />
+														<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="System.Windows.Controls.Grid" />
+															</Property>
+															<Property Name="WPFControlOrdinalNo">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="OUTLOOK" Key="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="OUTLOOK" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlg1Reminders" Key="{73CAA5F8-40DA-42CA-AAFA-0D238A60015D}">
+								<Image FileName="84598069" Left="0" Top="0" Right="582" Bottom="427" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="1 Reminder(s)" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnDismissAll" Key="{4E44696D-323B-4713-B526-603576A537B7}">
+										<Image FileName="84598069" Left="494" Top="390" Right="568" Bottom="417" />
+										<TypeInfo Item0="{5B3229CD-F3BC-40F3-9047-BED54BEDB7B4}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Dismiss &amp;All" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -1647,6 +1763,7 @@
 						<Child Name="grouping" Owner="{C0AB7B69-D965-4A77-9ECD-62DD0D00AD1E}">
 							<Child Name="menuitemGantt" Owner="{535CD436-3444-4BE9-9791-5DC3984E2952}" />
 							<Child Name="menuitemDataConnector" Owner="{0E52A1D1-B157-47F4-829C-9DC506BC64D3}" />
+							<Child Name="menuitemWaterfall" Owner="{55F2DFFE-07EC-41F3-AA33-86CDEAF42716}" />
 						</Child>
 					</Child>
 				</Child>
@@ -1661,6 +1778,18 @@
 				</Child>
 			</Child>
 			<Child Name="ganttChartAssistant2" Owner="{B8FE00F2-8909-4FA2-BDAA-0DD871074980}" />
+			<Child Name="HwndSource_waterfallview" Owner="{E08FD9E6-1746-4E1F-B4D7-6E5C50DC5ACA}">
+				<Child Name="waterfallview" Owner="{8F52AB85-1512-44CB-9076-51DBB9A7F9EA}">
+					<Child Name="Button" Owner="{5B04D74E-4265-4497-8F17-28E801C7038A}" />
+					<Child Name="TextblockWaterfallChartWizard" Owner="{F21BC26C-B6E1-4E64-986A-42636C60C579}" />
+					<Child Name="Grid" Owner="{41236FA2-069D-4AAD-B96E-FB6D2D6F0E58}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="OUTLOOK" Owner="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
+			<Child Name="dlg1Reminders" Owner="{73CAA5F8-40DA-42CA-AAFA-0D238A60015D}">
+				<Child Name="btnDismissAll" Owner="{4E44696D-323B-4713-B526-603576A537B7}" />
+			</Child>
 		</Child>
 	</LogicalNodes>
 </Root>

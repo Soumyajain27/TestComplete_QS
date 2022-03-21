@@ -4,5 +4,6 @@
 		<child name="Step1_VerifyQS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_VerifyQS_features.tcKDTest" />
 		<child name="Step2_Check_GanttChartAssitant" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant.tcKDTest" />
 		<child name="Step3_check_Dataconnector" key="{265A5971-7CFF-4F13-8D2D-346B4870133F}" path="Step3_check_Dataconnector.tcKDTest" />
+		<child name="Step4_Check_WaterfallChatWizard" key="{66B3FFA6-06F6-4A3F-A49D-D22C3350209D}" path="Step4_Check_WaterfallChatWizard.tcKDTest" />
 	</children>
 </Root>
