@@ -455,6 +455,34 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="panelMsodockright" Key="{23C7A7AA-22AB-4443-A2F3-6C7F7ADE98B0}">
+										<Image FileName="-1559093064" Left="1414" Top="201" Right="1920" Bottom="1003" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="MsoDockRight" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbar" Key="{EA8EFA17-D9B2-43D7-93DB-753EF13AF690}">
+												<Image FileName="-1559093064" Left="1414" Top="201" Right="1920" Bottom="1003" />
+												<TypeInfo Item0="{8EC15A08-61DA-471D-8105-53FC2A8A43B9}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Data Connector" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="ganttChartAssistant" Key="{44E1DFB4-09E2-4371-8A5D-E1CE226313B6}">
@@ -1444,6 +1472,21 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="menuitemDataConnector" Key="{0E52A1D1-B157-47F4-829C-9DC506BC64D3}">
+																<Image FileName="174060578" Left="2" Top="38" Right="180" Bottom="74" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Data Connector" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -1525,6 +1568,15 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="ganttChartAssistant2" Key="{B8FE00F2-8909-4FA2-BDAA-0DD871074980}">
+								<Image FileName="-261695888" Left="0" Top="0" Right="1440" Bottom="782" />
+								<TypeInfo Item0="{918745A2-BC19-4ED1-93E4-12C53424A49A}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="ganttChartAssistant" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -1584,6 +1636,9 @@
 						</Child>
 					</Child>
 				</Child>
+				<Child Name="panelMsodockright" Owner="{23C7A7AA-22AB-4443-A2F3-6C7F7ADE98B0}">
+					<Child Name="toolbar" Owner="{EA8EFA17-D9B2-43D7-93DB-753EF13AF690}" />
+				</Child>
 			</Child>
 			<Child Name="ganttChartAssistant" Owner="{44E1DFB4-09E2-4371-8A5D-E1CE226313B6}" />
 			<Child Name="NetUIToolWindow" Owner="{D12B5DBE-3B88-4702-B9F8-23A69A9686D1}">
@@ -1591,6 +1646,7 @@
 					<Child Name="client" Owner="{B33278AD-E4BC-4AA5-A875-F18C281E2B01}">
 						<Child Name="grouping" Owner="{C0AB7B69-D965-4A77-9ECD-62DD0D00AD1E}">
 							<Child Name="menuitemGantt" Owner="{535CD436-3444-4BE9-9791-5DC3984E2952}" />
+							<Child Name="menuitemDataConnector" Owner="{0E52A1D1-B157-47F4-829C-9DC506BC64D3}" />
 						</Child>
 					</Child>
 				</Child>
@@ -1604,6 +1660,7 @@
 					</Child>
 				</Child>
 			</Child>
+			<Child Name="ganttChartAssistant2" Owner="{B8FE00F2-8909-4FA2-BDAA-0DD871074980}" />
 		</Child>
 	</LogicalNodes>
 </Root>

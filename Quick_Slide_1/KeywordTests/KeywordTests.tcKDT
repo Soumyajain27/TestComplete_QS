@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
-		<child name="Step1_Open_Powepoint_and_verify_QS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_Open_Powepoint_and_verify_QS_features.tcKDTest" />
-		<child name="Step2_Check_GanttChartAssitant_popup_appears_on_clicking_on_Gantt_from_Data_" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant_popup_appears_on_clicking_on_Gantt_from_Data_.tcKDTest" />
+		<child name="Step1_VerifyQS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_VerifyQS_features.tcKDTest" />
+		<child name="Step2_Check_GanttChartAssitant" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant.tcKDTest" />
+		<child name="Step3_check_Dataconnector" key="{265A5971-7CFF-4F13-8D2D-346B4870133F}" path="Step3_check_Dataconnector.tcKDTest" />
 	</children>
 </Root>
