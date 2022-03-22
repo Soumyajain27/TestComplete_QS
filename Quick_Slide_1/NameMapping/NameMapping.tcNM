@@ -27,6 +27,57 @@
 										<Value Value="StartUpDialog" />
 									</Property>
 								</Properties>
+								<Children>
+									<Child Name="layoutSplitContainer" Key="{5390F98B-2450-4EFA-94EC-A8D1174C3029}">
+										<Image FileName="1301925696" Left="1" Top="31" Right="1606" Bottom="902" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="layoutSplitContainer" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="recentDocumentsSplitPanel" Key="{C992B2F1-247F-47B5-8711-96E3D071B9E5}">
+												<Image FileName="1301925696" Left="1" Top="31" Right="444" Bottom="902" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="recentDocumentsSplitPanel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="recentDocumentsTableLayoutPanel" Key="{3C50529C-043C-415D-B503-248E9F2F12F6}">
+														<Image FileName="1301925696" Left="1" Top="31" Right="444" Bottom="902" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="recentDocumentsTableLayoutPanel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="openOtherPresentationTableLayoutPanel" Key="{6C50662D-5211-4ED6-ABC8-61888FA4E0F4}">
+																<Image FileName="1301925696" Left="1" Top="840" Right="434" Bottom="890" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="openOtherPresentationTableLayoutPanel" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="openOtherPresentationButton" Key="{819738AF-0755-4DE9-8822-77ABA8ECD36E}">
+																		<Image FileName="1301925696" Left="5" Top="844" Right="47" Bottom="886" />
+																		<TypeInfo Item0="{5B3229CD-F3BC-40F3-9047-BED54BEDB7B4}" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="openOtherPresentationButton" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
 							</Child>
 							<Child Name="wndPPTFrameClass" Key="{399305DC-601F-4DB0-9F4D-C656414FC9B1}">
 								<Image FileName="842446205" Left="-9" Top="-9" Right="1929" Bottom="1039" />
@@ -439,6 +490,68 @@
 																											</Child>
 																										</Children>
 																									</Child>
+																									<Child Name="toolbarStart" Key="{10E9E381-2FF5-44AF-A0C7-FA31A4FA036F}">
+																										<Image FileName="162558347" Left="0" Top="82" Right="93" Bottom="200" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ToolBar" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Start" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="dropdownbuttonQuickstart" Key="{6218AB54-98DD-40C9-8BD5-2DABE9C77277}">
+																												<Image FileName="162558347" Left="10" Top="84" Right="83" Bottom="176" />
+																												<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="DropDownButton" />
+																													</Property>
+																													<Property Name="Caption">
+																														<Value Value="QuickStart" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="toolbarExtras" Key="{0797003C-42D4-4747-AFCB-50A946D9759A}">
+																										<Image FileName="1372560930" Left="1045" Top="82" Right="1129" Bottom="200" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ToolBar" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Extras" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="dropdownbutton" Key="{8D65CFA3-CB2F-4682-902A-53A1BB62CCF9}">
+																												<Image FileName="1372560930" Left="1064" Top="113" Right="1110" Bottom="142" />
+																												<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="DropDownButton" />
+																													</Property>
+																													<Property Name="ControlIndex">
+																														<Value Value="3" Type="0" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
 																								</Children>
 																							</Child>
 																						</Children>
@@ -480,6 +593,121 @@
 														<Value Value="Data Connector" />
 													</Property>
 												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="MDIClient" Key="{587ABCC9-57FB-4F28-9BEF-D0AAB75CF679}">
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="MDIClient" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="wndmdiClass" Key="{329417FE-D3DD-4DAF-8B12-B39428F3071B}">
+												<TypeInfo Item0="{A2D1B1BF-5CE1-403A-8F44-6B9A1AB7896E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="mdiClass" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelMsodockbottom" Key="{6552A483-3860-4762-BA3A-BEA12F927A16}">
+										<Image FileName="-1757720186" Left="0" Top="1003" Right="1920" Bottom="1030" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="MsoDockBottom" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbar" Key="{21DC363C-F94E-4AC7-9707-6FB30EC56E6E}">
+												<Image FileName="-1757720186" Left="0" Top="1003" Right="1920" Bottom="1030" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Status Bar" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MsoWorkPane" Key="{EB915CE5-9874-46D6-841A-5096FBDB1514}">
+														<Image FileName="-1757720186" Left="0" Top="1003" Right="1920" Bottom="1030" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MsoWorkPane" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Status Bar" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NUIPane" Key="{231893BA-98B5-49EC-8B5C-3858FD598BFC}">
+																<Image FileName="-1757720186" Left="0" Top="1003" Right="1920" Bottom="1030" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NUIPane" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="propertypageStatusBar" Key="{9427FD26-FD72-4D7B-A8ED-251E154B20B5}">
+																		<Image FileName="-1757720186" Left="0" Top="1003" Right="1920" Bottom="1030" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="PropertyPage" />
+																			</Property>
+																			<Property Name="Caption">
+																				<Value Value="Status Bar" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="buttonViewIndicatorSlide1Of1" Key="{E4B71AE3-2AEA-4D50-A0E1-DE9D243C5B2F}">
+																				<Image FileName="-1757720186" Left="0" Top="1004" Right="86" Bottom="1030" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="View Indicator Slide 1 of 1" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonViewIndicatorSlide2Of2" Key="{1B10A4D9-60BB-4870-9A79-F08EEA453CFA}">
+																				<Image FileName="1640016463" Left="0" Top="1004" Right="86" Bottom="1030" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="View Indicator Slide 2 of 2" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
 											</Child>
 										</Children>
 									</Child>
@@ -1502,6 +1730,36 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="menuitemCreateOpenFile" Key="{D3A9F269-46D9-43F5-A20B-7FE28777833F}">
+																<Image FileName="-1998159641" Left="2" Top="39" Right="320" Bottom="75" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Create / open file" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="menuitemAdminMode" Key="{F63D7D1B-C686-4661-A8CC-0A7AF2307A97}">
+																<Image FileName="1906847001" Left="2" Top="39" Right="263" Bottom="75" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Admin mode" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -1659,6 +1917,82 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="SlideBrowser" Key="{D8875119-985B-4E5C-8C6A-3C31C11208B6}">
+								<Image FileName="-926099245" Left="0" Top="0" Right="1632" Bottom="870" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="SlideBrowser" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="RadSplitContainer1" Key="{ECED4DF9-DC11-431E-908D-E881F646061D}">
+										<Image FileName="-926099245" Left="1" Top="31" Right="1631" Bottom="869" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="RadSplitContainer1" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="SplitPanel1" Key="{2A1751EF-9088-4DC1-81B6-44297227E188}">
+												<Image FileName="-926099245" Left="1" Top="31" Right="267" Bottom="869" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="SplitPanel1" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="SlidesTree" Key="{89CB89A0-B59E-4CF2-AA34-BB2DA564567B}">
+														<Image FileName="-926099245" Left="13" Top="112" Right="259" Bottom="812" />
+														<TypeInfo Item0="{3902A5CE-F3CD-42A5-8DD9-5168A23736F6}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="SlidesTree" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btnUpload" Key="{0C8FFC69-D406-4CA5-AC89-C8A5DF211CDA}">
+														<Image FileName="-599475359" Left="13" Top="823" Right="257" Bottom="853" />
+														<TypeInfo Item0="{CE8D220A-649E-4F08-BE3C-D0235D391890}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="btnUpload" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="SplitPanel2" Key="{2FBD7586-8516-4BC3-86C6-CCB4764C3250}">
+												<Image FileName="707062165" Left="271" Top="31" Right="1631" Bottom="869" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="SplitPanel2" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="SlidesView" Key="{0636B31F-7BD0-48C4-92BF-9786F65DA7F7}">
+														<Image FileName="707062165" Left="283" Top="100" Right="1619" Bottom="800" />
+														<TypeInfo Item0="{F68C38CC-C7E3-4EFC-8907-69E8B5841C8C}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="SlidesView" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="btnInsert" Key="{89AEBE81-A02A-40A0-A9E7-186DCDC449A4}">
+														<Image FileName="1290900781" Left="1377" Top="826" Right="1621" Bottom="856" />
+														<TypeInfo Item0="{CE8D220A-649E-4F08-BE3C-D0235D391890}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="btnInsert" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="OUTLOOK" Key="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
@@ -1695,13 +2029,112 @@
 							</Child>
 						</Children>
 					</Child>
+					<Child Name="Teams" Key="{3186B17C-1F9E-447A-AB95-261E8E98E1A4}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Teams" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{C80800C2-92FD-4BC0-91D4-14BAC505ADA2}">
+								<Image FileName="-1100796561" Left="0" Top="0" Right="377" Bottom="275" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Microsoft Teams Notification" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{36662C0B-D1D7-47CB-AA7F-38733F833F4F}">
+										<Image FileName="-1100796561" Left="0" Top="0" Right="378" Bottom="275" />
+										<TypeInfo Item0="{F68C38CC-C7E3-4EFC-8907-69E8B5841C8C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndChrome_WidgetWin_12" Key="{659E3DEC-0358-4900-828E-3C9DB321E0F4}">
+								<Image FileName="559115249" Left="0" Top="0" Right="1340" Bottom="840" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Web Dev Daily Stand-up | Microsoft Teams" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{E6ACBEB4-080C-4699-9EFE-4C1DB263B44A}">
+										<Image FileName="559115249" Left="0" Top="0" Right="1340" Bottom="840" />
+										<TypeInfo Item0="{F68C38CC-C7E3-4EFC-8907-69E8B5841C8C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Microsoft_Windows_ShellExperienceHost" Key="{0FC5B52F-D977-4128-A6EC-96676C68FDBD}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Microsoft.Windows.ShellExperienceHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="New_notification" Key="{F478DFFC-1852-40F2-BEB6-1118265F5533}">
+								<Image FileName="968380771" Left="0" Top="0" Right="495" Bottom="316" />
+								<TypeInfo Item0="{C0927D72-11C4-48F1-BE0D-C662753E8F82}" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="XAML" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Windows.UI.Core.CoreWindow" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="New_notification" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
 	</Nodes>
 	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
 		<Child Name="POWERPNT" Owner="{3DA8FA3B-8178-4450-B4B8-0DCBE605AF27}">
-			<Child Name="StartUpDialog" Owner="{5B21FADB-96BE-4F4E-9B0C-DEFA93484142}" />
+			<Child Name="StartUpDialog" Owner="{5B21FADB-96BE-4F4E-9B0C-DEFA93484142}">
+				<Child Name="layoutSplitContainer" Owner="{5390F98B-2450-4EFA-94EC-A8D1174C3029}">
+					<Child Name="recentDocumentsSplitPanel" Owner="{C992B2F1-247F-47B5-8711-96E3D071B9E5}">
+						<Child Name="recentDocumentsTableLayoutPanel" Owner="{3C50529C-043C-415D-B503-248E9F2F12F6}">
+							<Child Name="openOtherPresentationTableLayoutPanel" Owner="{6C50662D-5211-4ED6-ABC8-61888FA4E0F4}">
+								<Child Name="openOtherPresentationButton" Owner="{819738AF-0755-4DE9-8822-77ABA8ECD36E}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
 			<Child Name="wndPPTFrameClass" Owner="{399305DC-601F-4DB0-9F4D-C656414FC9B1}">
 				<Child Name="FullpageUIHost" Owner="{5042A1F3-CCCA-4746-A64E-488CAFDE16B2}">
 					<Child Name="pane" Owner="{4BBA6606-5997-4CB4-9F78-F5E9437AB9CF}">
@@ -1744,6 +2177,12 @@
 													<Child Name="buttonAgenda" Owner="{F26C4746-D498-4A59-BBFB-93A20957D044}" />
 													<Child Name="dropdownbuttonData" Owner="{324998AE-040F-4A68-BC68-2D30805554DC}" />
 												</Child>
+												<Child Name="toolbarStart" Owner="{10E9E381-2FF5-44AF-A0C7-FA31A4FA036F}">
+													<Child Name="dropdownbuttonQuickstart" Owner="{6218AB54-98DD-40C9-8BD5-2DABE9C77277}" />
+												</Child>
+												<Child Name="toolbarExtras" Owner="{0797003C-42D4-4747-AFCB-50A946D9759A}">
+													<Child Name="dropdownbutton" Owner="{8D65CFA3-CB2F-4682-902A-53A1BB62CCF9}" />
+												</Child>
 											</Child>
 										</Child>
 									</Child>
@@ -1755,6 +2194,21 @@
 				<Child Name="panelMsodockright" Owner="{23C7A7AA-22AB-4443-A2F3-6C7F7ADE98B0}">
 					<Child Name="toolbar" Owner="{EA8EFA17-D9B2-43D7-93DB-753EF13AF690}" />
 				</Child>
+				<Child Name="MDIClient" Owner="{587ABCC9-57FB-4F28-9BEF-D0AAB75CF679}">
+					<Child Name="wndmdiClass" Owner="{329417FE-D3DD-4DAF-8B12-B39428F3071B}" />
+				</Child>
+				<Child Name="panelMsodockbottom" Owner="{6552A483-3860-4762-BA3A-BEA12F927A16}">
+					<Child Name="toolbar" Owner="{21DC363C-F94E-4AC7-9707-6FB30EC56E6E}">
+						<Child Name="MsoWorkPane" Owner="{EB915CE5-9874-46D6-841A-5096FBDB1514}">
+							<Child Name="NUIPane" Owner="{231893BA-98B5-49EC-8B5C-3858FD598BFC}">
+								<Child Name="propertypageStatusBar" Owner="{9427FD26-FD72-4D7B-A8ED-251E154B20B5}">
+									<Child Name="buttonViewIndicatorSlide1Of1" Owner="{E4B71AE3-2AEA-4D50-A0E1-DE9D243C5B2F}" />
+									<Child Name="buttonViewIndicatorSlide2Of2" Owner="{1B10A4D9-60BB-4870-9A79-F08EEA453CFA}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
 			</Child>
 			<Child Name="ganttChartAssistant" Owner="{44E1DFB4-09E2-4371-8A5D-E1CE226313B6}" />
 			<Child Name="NetUIToolWindow" Owner="{D12B5DBE-3B88-4702-B9F8-23A69A9686D1}">
@@ -1764,6 +2218,8 @@
 							<Child Name="menuitemGantt" Owner="{535CD436-3444-4BE9-9791-5DC3984E2952}" />
 							<Child Name="menuitemDataConnector" Owner="{0E52A1D1-B157-47F4-829C-9DC506BC64D3}" />
 							<Child Name="menuitemWaterfall" Owner="{55F2DFFE-07EC-41F3-AA33-86CDEAF42716}" />
+							<Child Name="menuitemCreateOpenFile" Owner="{D3A9F269-46D9-43F5-A20B-7FE28777833F}" />
+							<Child Name="menuitemAdminMode" Owner="{F63D7D1B-C686-4661-A8CC-0A7AF2307A97}" />
 						</Child>
 					</Child>
 				</Child>
@@ -1785,11 +2241,34 @@
 					<Child Name="Grid" Owner="{41236FA2-069D-4AAD-B96E-FB6D2D6F0E58}" />
 				</Child>
 			</Child>
+			<Child Name="SlideBrowser" Owner="{D8875119-985B-4E5C-8C6A-3C31C11208B6}">
+				<Child Name="RadSplitContainer1" Owner="{ECED4DF9-DC11-431E-908D-E881F646061D}">
+					<Child Name="SplitPanel1" Owner="{2A1751EF-9088-4DC1-81B6-44297227E188}">
+						<Child Name="SlidesTree" Owner="{89CB89A0-B59E-4CF2-AA34-BB2DA564567B}" />
+						<Child Name="btnUpload" Owner="{0C8FFC69-D406-4CA5-AC89-C8A5DF211CDA}" />
+					</Child>
+					<Child Name="SplitPanel2" Owner="{2FBD7586-8516-4BC3-86C6-CCB4764C3250}">
+						<Child Name="SlidesView" Owner="{0636B31F-7BD0-48C4-92BF-9786F65DA7F7}" />
+						<Child Name="btnInsert" Owner="{89AEBE81-A02A-40A0-A9E7-186DCDC449A4}" />
+					</Child>
+				</Child>
+			</Child>
 		</Child>
 		<Child Name="OUTLOOK" Owner="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
 			<Child Name="dlg1Reminders" Owner="{73CAA5F8-40DA-42CA-AAFA-0D238A60015D}">
 				<Child Name="btnDismissAll" Owner="{4E44696D-323B-4713-B526-603576A537B7}" />
 			</Child>
+		</Child>
+		<Child Name="Teams" Owner="{3186B17C-1F9E-447A-AB95-261E8E98E1A4}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{C80800C2-92FD-4BC0-91D4-14BAC505ADA2}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{36662C0B-D1D7-47CB-AA7F-38733F833F4F}" />
+			</Child>
+			<Child Name="wndChrome_WidgetWin_12" Owner="{659E3DEC-0358-4900-828E-3C9DB321E0F4}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{E6ACBEB4-080C-4699-9EFE-4C1DB263B44A}" />
+			</Child>
+		</Child>
+		<Child Name="Microsoft_Windows_ShellExperienceHost" Owner="{0FC5B52F-D977-4128-A6EC-96676C68FDBD}">
+			<Child Name="New_notification" Owner="{F478DFFC-1852-40F2-BEB6-1118265F5533}" />
 		</Child>
 	</LogicalNodes>
 </Root>

@@ -5,5 +5,8 @@
 		<child name="Step2_Check_GanttChartAssitant" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant.tcKDTest" />
 		<child name="Step3_check_Dataconnector" key="{265A5971-7CFF-4F13-8D2D-346B4870133F}" path="Step3_check_Dataconnector.tcKDTest" />
 		<child name="Step4_Check_WaterfallChatWizard" key="{66B3FFA6-06F6-4A3F-A49D-D22C3350209D}" path="Step4_Check_WaterfallChatWizard.tcKDTest" />
+		<child name="Step5_Check_New_Slide_open_via_QuickStart" key="{39EE35D8-E630-4390-B9BE-BD886CFAD299}" path="Step5_Check_New_Slide_open_via_QuickStart.tcKDTest" />
+		<child name="Step6_Check_Slide_get_added_via_SlidePool" key="{CC8CB57C-0480-49E6-BC03-A12A93067A78}" path="Step6_Check_Slide_get_added_via_SlidePool.tcKDTest" />
+		<child name="Step7_Check_Admin_mod_is_on" key="{5266FD8A-8936-4156-8BFB-5D07FB41942D}" path="Step7_Check_Admin_mod_is_on.tcKDTest" />
 	</children>
 </Root>
