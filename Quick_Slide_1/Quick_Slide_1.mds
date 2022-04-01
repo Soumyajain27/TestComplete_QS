@@ -34,6 +34,21 @@
 				<environments activeCloud="CBT" />
 				<children />
 			</testItem>
+			<testItem name="ProjectTestItem6" key="{6D23B7C7-FD5F-43A0-8488-E311C61B2B2C}" group="False" parallel="False" enabled="True" testMoniker="KDT\{CC8CB57C-0480-49E6-BC03-A12A93067A78}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem7" key="{52E0FA28-D24E-478F-AC7C-45F7AD30B7A1}" group="False" parallel="False" enabled="True" testMoniker="KDT\{90F6AE10-982D-4AA2-B259-424B91FA1B48}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem8" key="{9045933C-9EFA-4DA3-A086-44643F5B0B34}" group="False" parallel="False" enabled="True" testMoniker="KDT\{DCC1E7AA-0308-4BD1-93CA-F8C441634F99}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{3CCAE299-54FE-43AF-BEE3-2AD1BF9E525D}" />

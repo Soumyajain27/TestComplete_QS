@@ -7,6 +7,7 @@
 		<child name="Step4_Check_WaterfallChatWizard" key="{66B3FFA6-06F6-4A3F-A49D-D22C3350209D}" path="Step4_Check_WaterfallChatWizard.tcKDTest" />
 		<child name="Step5_Check_New_Slide_open_via_QuickStart" key="{39EE35D8-E630-4390-B9BE-BD886CFAD299}" path="Step5_Check_New_Slide_open_via_QuickStart.tcKDTest" />
 		<child name="Step6_Check_Slide_get_added_via_SlidePool" key="{CC8CB57C-0480-49E6-BC03-A12A93067A78}" path="Step6_Check_Slide_get_added_via_SlidePool.tcKDTest" />
-		<child name="Step7_Check_Admin_mod_is_on" key="{5266FD8A-8936-4156-8BFB-5D07FB41942D}" path="Step7_Check_Admin_mod_is_on.tcKDTest" />
+		<child name="Step7_Check_Admin_Mode_is_off_" key="{90F6AE10-982D-4AA2-B259-424B91FA1B48}" path="Step7_Check_Admin_Mode_is_off_.tcKDTest" />
+		<child name="Step8_Check_Agenda_Get_added" key="{DCC1E7AA-0308-4BD1-93CA-F8C441634F99}" path="Step8_Check_Agenda_Get_added.tcKDTest" />
 	</children>
 </Root>

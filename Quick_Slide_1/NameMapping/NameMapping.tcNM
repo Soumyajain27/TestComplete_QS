@@ -701,6 +701,51 @@
 																					</Property>
 																				</Properties>
 																			</Child>
+																			<Child Name="buttonViewIndicatorSlide5Of5" Key="{22F0B206-255A-4494-AD79-3B316215E989}">
+																				<Image FileName="-1327660790" Left="0" Top="1004" Right="86" Bottom="1030" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="View Indicator Slide 5 of 5" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonViewIndicatorSlide4Of4" Key="{AFA019CB-0132-44D0-B8CC-DFE713ABC720}">
+																				<Image FileName="-112678268" Left="0" Top="1004" Right="86" Bottom="1030" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="View Indicator Slide 4 of 4" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonViewIndicatorSlide3Of3" Key="{7B07A289-BE21-4B5C-98A7-03355A159B78}">
+																				<Image FileName="422964855" Left="0" Top="1004" Right="86" Bottom="1030" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="View Indicator Slide 3 of 3" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -1993,6 +2038,92 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="Agenda" Key="{1FFD0F9F-66B8-4792-AC5C-DED33FD8CEF1}">
+								<Image FileName="428383497" Left="0" Top="0" Right="872" Bottom="678" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="Agenda" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panTop" Key="{3BD5676C-FF08-4774-A69A-056F87964799}">
+										<Image FileName="428383497" Left="1" Top="31" Right="871" Bottom="82" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="panTop" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="drpDefinition" Key="{635B99E2-BC68-4956-BC79-9F9C4A414D76}">
+												<Image FileName="428383497" Left="13" Top="43" Right="375" Bottom="68" />
+												<TypeInfo Item0="{6FDC272C-7E4A-4533-B4B8-15A1B4897D15}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="drpDefinition" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panOutline" Key="{B0EEB938-628B-432E-81C3-8C333528BFD0}">
+										<Image FileName="428383497" Left="1" Top="82" Right="871" Bottom="622" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="panOutline" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="txtTitle" Key="{DDECE7AA-2916-48FE-8DE5-619DEF48FA8C}">
+												<Image FileName="428383497" Left="13" Top="94" Right="858" Bottom="121" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="txtTitle" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="HostedTextBoxBase" Key="{181E2E1B-E266-4902-98CF-EF1DC1410F81}">
+														<Image FileName="428383497" Left="24" Top="96" Right="856" Bottom="119" />
+														<TypeInfo Item0="{4525B893-F8A4-4453-A1C8-C6ADA6E72264}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="Telerik.WinControls.UI.HostedTextBoxBase" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="TreeView1" Key="{9C8ADF9D-9E5F-4F95-9908-03E1B44C484E}">
+												<Image FileName="227131223" Left="13" Top="140" Right="858" Bottom="610" />
+												<TypeInfo Item0="{3902A5CE-F3CD-42A5-8DD9-5168A23736F6}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="TreeView1" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panBottom" Key="{8FA0F50C-FEE3-46CF-A1B3-AF9E4E9186C5}">
+										<Image FileName="1132048" Left="1" Top="622" Right="871" Bottom="677" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="panBottom" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="btnInsert" Key="{1FDF7278-3F02-4B22-B4E6-80854FFBCB80}">
+												<Image FileName="1132048" Left="695" Top="634" Right="859" Bottom="664" />
+												<TypeInfo Item0="{CE8D220A-649E-4F08-BE3C-D0235D391890}" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="btnInsert" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="OUTLOOK" Key="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
@@ -2086,6 +2217,17 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="wndChrome_WidgetWin_13" Key="{12981F8A-31B8-46EB-8F62-4B55207C958D}">
+								<TypeInfo Item0="{F1561C47-1031-4EA5-9B76-B68579B91A02}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Ahmad El Lahib | Microsoft Teams" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="Microsoft_Windows_ShellExperienceHost" Key="{0FC5B52F-D977-4128-A6EC-96676C68FDBD}">
@@ -2113,6 +2255,27 @@
 									</Property>
 									<Property Name="ObjectGroupIndex">
 										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Microsoft_MicrosoftStickyNotes" Key="{E6080DCC-103C-4C52-9357-41BE0DECDE8B}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Microsoft.MicrosoftStickyNotes" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndTitle" Key="{DAA35029-2CD5-42E3-AD80-49D29256C8C3}">
+								<Image FileName="1122452075" Left="9" Top="1" Right="391" Bottom="391" />
+								<TypeInfo Item0="{C0927D72-11C4-48F1-BE0D-C662753E8F82}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Windows.UI.Core.AppWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Title" />
 									</Property>
 								</Properties>
 							</Child>
@@ -2204,6 +2367,9 @@
 								<Child Name="propertypageStatusBar" Owner="{9427FD26-FD72-4D7B-A8ED-251E154B20B5}">
 									<Child Name="buttonViewIndicatorSlide1Of1" Owner="{E4B71AE3-2AEA-4D50-A0E1-DE9D243C5B2F}" />
 									<Child Name="buttonViewIndicatorSlide2Of2" Owner="{1B10A4D9-60BB-4870-9A79-F08EEA453CFA}" />
+									<Child Name="buttonViewIndicatorSlide5Of5" Owner="{22F0B206-255A-4494-AD79-3B316215E989}" />
+									<Child Name="buttonViewIndicatorSlide4Of4" Owner="{AFA019CB-0132-44D0-B8CC-DFE713ABC720}" />
+									<Child Name="buttonViewIndicatorSlide3Of3" Owner="{7B07A289-BE21-4B5C-98A7-03355A159B78}" />
 								</Child>
 							</Child>
 						</Child>
@@ -2253,6 +2419,20 @@
 					</Child>
 				</Child>
 			</Child>
+			<Child Name="Agenda" Owner="{1FFD0F9F-66B8-4792-AC5C-DED33FD8CEF1}">
+				<Child Name="panTop" Owner="{3BD5676C-FF08-4774-A69A-056F87964799}">
+					<Child Name="drpDefinition" Owner="{635B99E2-BC68-4956-BC79-9F9C4A414D76}" />
+				</Child>
+				<Child Name="panOutline" Owner="{B0EEB938-628B-432E-81C3-8C333528BFD0}">
+					<Child Name="txtTitle" Owner="{DDECE7AA-2916-48FE-8DE5-619DEF48FA8C}">
+						<Child Name="HostedTextBoxBase" Owner="{181E2E1B-E266-4902-98CF-EF1DC1410F81}" />
+					</Child>
+					<Child Name="TreeView1" Owner="{9C8ADF9D-9E5F-4F95-9908-03E1B44C484E}" />
+				</Child>
+				<Child Name="panBottom" Owner="{8FA0F50C-FEE3-46CF-A1B3-AF9E4E9186C5}">
+					<Child Name="btnInsert" Owner="{1FDF7278-3F02-4B22-B4E6-80854FFBCB80}" />
+				</Child>
+			</Child>
 		</Child>
 		<Child Name="OUTLOOK" Owner="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
 			<Child Name="dlg1Reminders" Owner="{73CAA5F8-40DA-42CA-AAFA-0D238A60015D}">
@@ -2266,9 +2446,13 @@
 			<Child Name="wndChrome_WidgetWin_12" Owner="{659E3DEC-0358-4900-828E-3C9DB321E0F4}">
 				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{E6ACBEB4-080C-4699-9EFE-4C1DB263B44A}" />
 			</Child>
+			<Child Name="wndChrome_WidgetWin_13" Owner="{12981F8A-31B8-46EB-8F62-4B55207C958D}" />
 		</Child>
 		<Child Name="Microsoft_Windows_ShellExperienceHost" Owner="{0FC5B52F-D977-4128-A6EC-96676C68FDBD}">
 			<Child Name="New_notification" Owner="{F478DFFC-1852-40F2-BEB6-1118265F5533}" />
+		</Child>
+		<Child Name="Microsoft_MicrosoftStickyNotes" Owner="{E6080DCC-103C-4C52-9357-41BE0DECDE8B}">
+			<Child Name="wndTitle" Owner="{DAA35029-2CD5-42E3-AD80-49D29256C8C3}" />
 		</Child>
 	</LogicalNodes>
 </Root>

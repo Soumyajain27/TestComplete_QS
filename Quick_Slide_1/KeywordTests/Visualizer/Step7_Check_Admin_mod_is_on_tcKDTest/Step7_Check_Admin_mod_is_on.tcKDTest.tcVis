@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{5266FD8A-8936-4156-8BFB-5D07FB41942D}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44642.3830671296" objectName="Aliases.POWERPNT.wndPPTFrameClass.panelMsodocktop.toolbar.Ribbon.NUIPane.propertypageRibbon.paneLowerRibbon.client.propertypageQuickslide.toolbarInsert.buttonSlidePool" objectLeft="173" objectTop="84" objectRight="244" objectBottom="176" clickPointX="204" clickPointY="126" imageFileName="tcvi915171515144440.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44642.3830902778" objectName="Aliases.POWERPNT.SlideBrowser.RadSplitContainer1.SplitPanel1.SlidesTree" objectLeft="13" objectTop="112" objectRight="259" objectBottom="809" clickPointX="56" clickPointY="203" imageFileName="tcvi915174156144441.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44642.3832638889" objectName="Aliases.Microsoft_Windows_ShellExperienceHost.New_notification" objectLeft="0" objectTop="0" objectRight="495" objectBottom="316" clickPointX="438" clickPointY="123" imageFileName="tcvi915188625231640.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
-</Root>
