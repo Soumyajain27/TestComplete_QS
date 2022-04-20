@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="44659.35" objectName="Aliases.POWERPNT.wndPPTFrameClass.panelMsodocktop.toolbar.Ribbon.NUIPane.propertypageRibbon.paneLowerRibbon.client.propertypageQuickslide.toolbarInsert.groupingSlide.dropdownbuttonSlide" objectLeft="112" objectTop="130" objectRight="164" objectBottom="176" clickPointX="135" clickPointY="156" imageFileName="tcvi607088156300962.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44659.3500347222" objectName="Aliases.POWERPNT.NetUIToolWindow.popup.client.grouping.groupingNewSlide.dropdownbuttonNewSlide" objectLeft="117" objectTop="2" objectRight="145" objectBottom="38" clickPointX="122" clickPointY="21" imageFileName="tcvi607090500300963.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44659.3501273148" objectName="Aliases.POWERPNT.NetUIToolWindow.popup.listNewSlide" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi607098937300965.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
