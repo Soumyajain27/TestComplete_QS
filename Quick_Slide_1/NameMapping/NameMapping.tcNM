@@ -503,6 +503,36 @@
 																													</Property>
 																												</Properties>
 																											</Child>
+																											<Child Name="dropdownbuttonPool" Key="{000C17E5-A916-49B7-8219-CEAE4C7FA32E}">
+																												<Image FileName="-1701283581" Left="182" Top="93" Right="234" Bottom="185" />
+																												<TypeInfo Item0="{023F9C24-B005-4D17-8296-17E2A61F9FE6}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="DropDownButton" />
+																													</Property>
+																													<Property Name="Caption">
+																														<Value Value="Pool" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="dropdownbuttonCharts" Key="{61E3BE0E-2EAC-4823-8C77-E188FD277D67}">
+																												<Image FileName="954730681" Left="318" Top="93" Right="370" Bottom="185" />
+																												<TypeInfo Item0="{023F9C24-B005-4D17-8296-17E2A61F9FE6}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="DropDownButton" />
+																													</Property>
+																													<Property Name="Caption">
+																														<Value Value="Charts" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
 																										</Children>
 																									</Child>
 																									<Child Name="toolbarStart" Key="{10E9E381-2FF5-44AF-A0C7-FA31A4FA036F}">
@@ -702,6 +732,21 @@
 																														</Properties>
 																													</Child>
 																												</Children>
+																											</Child>
+																											<Child Name="buttonDataConnector" Key="{4E7875EA-6F9D-421D-969D-B7882A0247B6}">
+																												<Image FileName="-1418024163" Left="390" Top="93" Right="463" Bottom="185" />
+																												<TypeInfo Item0="{04D22DC5-F029-4473-8FEA-51E973E981EB}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Button" />
+																													</Property>
+																													<Property Name="Caption">
+																														<Value Value="Data Connector" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
 																											</Child>
 																										</Children>
 																									</Child>
@@ -930,6 +975,315 @@
 																												</Children>
 																											</Child>
 																										</Children>
+																									</Child>
+																									<Child Name="Editing" Key="{915B1873-B7DF-45F3-9F1A-4B8DA80C0623}">
+																										<Image FileName="-402746690" Left="1714" Top="258" Right="1921" Bottom="1005" />
+																										<TypeInfo Item0="{E8A88037-98FD-4DCD-B325-D0D9DF7BEA71}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="Editing" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panelBasic" Key="{87F017A5-969A-4B63-A193-90F752187311}">
+																												<Image FileName="-402746690" Left="1714" Top="328" Right="1899" Bottom="1010" />
+																												<TypeInfo Item0="{E8A88037-98FD-4DCD-B325-D0D9DF7BEA71}" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="panelBasic" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="btnQsAlignLeftB" Key="{0A8A6742-C7FA-465F-B01D-D0F42D0257B0}">
+																														<Image FileName="-402746690" Left="1718" Top="436" Right="1747" Bottom="465" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignLeftB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsAlignRightB" Key="{E963B302-EEEF-41AD-A98F-1B5A51B95FAD}">
+																														<Image FileName="1839503451" Left="1754" Top="436" Right="1783" Bottom="465" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignRightB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsAlignTopB" Key="{C6BAEAA6-F30B-44F8-990E-4B567EBEF0B4}">
+																														<Image FileName="-899744281" Left="1790" Top="436" Right="1819" Bottom="465" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignTopB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsAlignBottomB" Key="{4A649973-B849-4A95-B4AA-BF7A60C5167F}">
+																														<Image FileName="-812216524" Left="1826" Top="436" Right="1855" Bottom="465" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignBottomB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsAlignCenterHorizontalB" Key="{9778EE5B-0426-4AFE-A85F-42A65CD54D98}">
+																														<Image FileName="-401555098" Left="1718" Top="513" Right="1747" Bottom="541" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignCenterHorizontalB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsAlignMiddleVerticalB" Key="{04B51D73-F1D0-4B05-908B-ECE148B2BBFE}">
+																														<Image FileName="1319569931" Left="1754" Top="513" Right="1783" Bottom="541" />
+																														<TypeInfo Item0="{03B6CC1F-E135-4B7C-91BA-3404EB68CFD6}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsAlignMiddleVerticalB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsShapeFinderB" Key="{02E0C630-CC02-47B4-871B-4F208E9067B5}">
+																														<TypeInfo Item0="{5B3229CD-F3BC-40F3-9047-BED54BEDB7B4}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsShapeFinderB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="btnQsColorFinderB" Key="{87B180D8-0317-481F-8628-13676E653884}">
+																														<Image FileName="1290809547" Left="1745" Top="351" Right="1774" Bottom="379" />
+																														<TypeInfo Item0="{5B3229CD-F3BC-40F3-9047-BED54BEDB7B4}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="btnQsColorFinderB" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																													<Child Name="msoSelectionPane" Key="{936FA742-0110-4DED-9801-CD69E0E617CF}">
+																														<Image FileName="1547087892" Left="1781" Top="351" Right="1810" Bottom="379" />
+																														<TypeInfo Item0="{AA454A53-7607-4F71-8E57-B4D30F8FA05E}" />
+																														<Properties>
+																															<Property Name="WinFormsControlName">
+																																<Value Value="msoSelectionPane" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="toolbar3" Key="{DD47876D-9872-44DC-8682-6951FE55E01C}">
+												<Image FileName="-665199590" Left="1616" Top="210" Right="1929" Bottom="1012" />
+												<TypeInfo Item0="{B4E4ED10-D9DB-4EDB-ACCA-4E743F955889}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Selection" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Selection" Key="{69FCD37B-5F40-4B02-9712-25E844481E74}">
+														<Image FileName="1462176572" Left="1615" Top="248" Right="1912" Bottom="996" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MsoWorkPane" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Selection" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NUIPane" Key="{E3F0897F-954E-4908-A987-880A3C7E5F73}">
+																<Image FileName="1462176572" Left="1615" Top="248" Right="1912" Bottom="996" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NUIPane" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="propertypageSelection" Key="{D6750219-13E3-4B0B-9546-C731CD6080D6}">
+																		<Image FileName="1462176572" Left="1615" Top="248" Right="1912" Bottom="996" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="PropertyPage" />
+																			</Property>
+																			<Property Name="Caption">
+																				<Value Value="Selection" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="buttonBringForward" Key="{69D33CF8-79BB-455A-9D5D-BCB9974697FB}">
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="Bring Forward" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonSendBackward" Key="{E46DFD15-AA72-491E-8BFA-0BE8C49D6AF9}">
+																				<Image FileName="379888747" Left="1884" Top="263" Right="1905" Bottom="281" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="Send Backward" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="outline" Key="{254E4ED4-5C50-4736-85E7-809A04197132}">
+																				<Image FileName="1462176572" Left="1622" Top="304" Right="1905" Bottom="987" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Outline" />
+																					</Property>
+																					<Property Name="ControlIndex">
+																						<Value Value="4" Type="0" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="client" Key="{729BAC19-A54C-45FD-A6F4-659E942E63A3}">
+																						<Image FileName="1462176572" Left="1623" Top="305" Right="1904" Bottom="986" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Client" />
+																							</Property>
+																							<Property Name="ControlIndex">
+																								<Value Value="0" Type="0" />
+																							</Property>
+																							<Property Name="ObjectGroupIndex">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="outlineitemRectangle66" Key="{12B05EFC-EFD8-4C87-AE74-A6160873EEAD}">
+																								<Image FileName="106439276" Left="1643" Top="305" Right="1904" Bottom="335" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle 66" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="textRectangle66" Key="{B9D954B5-ABAE-46B1-BA1A-81446506A994}">
+																										<Image FileName="106439276" Left="1647" Top="309" Right="1737" Bottom="331" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Text" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Rectangle 66" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemRectangle62" Key="{FD4AF04A-44A3-4635-A6B0-5BAF9CAD761B}">
+																								<Image FileName="-1239355456" Left="1643" Top="335" Right="1904" Bottom="365" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle 62" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="textRectangle62" Key="{2AF46B2A-5029-4556-8F82-27427B90052F}">
+																										<Image FileName="-1239355456" Left="1647" Top="339" Right="1737" Bottom="361" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Text" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Rectangle 62" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemOval63" Key="{FC4FFF1B-A7AB-4995-BC66-65F6AB63D215}">
+																								<Image FileName="1462176572" Left="1643" Top="335" Right="1904" Bottom="365" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Oval 63" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="textOval63" Key="{AD8075EF-41D6-4A9B-89B8-13FDE45CEDF2}">
+																										<Image FileName="-749911251" Left="1647" Top="369" Right="1701" Bottom="391" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Text" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Oval 63" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
 																									</Child>
 																								</Children>
 																							</Child>
@@ -3092,6 +3446,8 @@
 													<Child Name="buttonMediaConnector" Owner="{92DEE33A-EE0F-4F9F-97A6-D01D4D89B387}" />
 													<Child Name="buttonAgenda" Owner="{F26C4746-D498-4A59-BBFB-93A20957D044}" />
 													<Child Name="dropdownbuttonData" Owner="{324998AE-040F-4A68-BC68-2D30805554DC}" />
+													<Child Name="dropdownbuttonPool" Owner="{000C17E5-A916-49B7-8219-CEAE4C7FA32E}" />
+													<Child Name="dropdownbuttonCharts" Owner="{61E3BE0E-2EAC-4823-8C77-E188FD277D67}" />
 												</Child>
 												<Child Name="toolbarStart" Owner="{10E9E381-2FF5-44AF-A0C7-FA31A4FA036F}">
 													<Child Name="dropdownbuttonQuickstart" Owner="{6218AB54-98DD-40C9-8BD5-2DABE9C77277}" />
@@ -3110,6 +3466,7 @@
 													<Child Name="groupingShapeOutline" Owner="{F18B1D92-3334-46AB-938E-E967D8B689F1}">
 														<Child Name="splitbuttonShapeOutline" Owner="{836C909A-4F6E-4F28-9F69-5506A54B86BB}" />
 													</Child>
+													<Child Name="buttonDataConnector" Owner="{4E7875EA-6F9D-421D-969D-B7882A0247B6}" />
 												</Child>
 											</Child>
 										</Child>
@@ -3142,6 +3499,42 @@
 														<Child Name="msoObjectSendBackward" Owner="{E18DD1DB-E8A2-4C20-B021-70A107754727}" />
 													</Child>
 												</Child>
+												<Child Name="Editing" Owner="{915B1873-B7DF-45F3-9F1A-4B8DA80C0623}">
+													<Child Name="panelBasic" Owner="{87F017A5-969A-4B63-A193-90F752187311}">
+														<Child Name="btnQsAlignLeftB" Owner="{0A8A6742-C7FA-465F-B01D-D0F42D0257B0}" />
+														<Child Name="btnQsAlignRightB" Owner="{E963B302-EEEF-41AD-A98F-1B5A51B95FAD}" />
+														<Child Name="btnQsAlignTopB" Owner="{C6BAEAA6-F30B-44F8-990E-4B567EBEF0B4}" />
+														<Child Name="btnQsAlignBottomB" Owner="{4A649973-B849-4A95-B4AA-BF7A60C5167F}" />
+														<Child Name="btnQsAlignCenterHorizontalB" Owner="{9778EE5B-0426-4AFE-A85F-42A65CD54D98}" />
+														<Child Name="btnQsAlignMiddleVerticalB" Owner="{04B51D73-F1D0-4B05-908B-ECE148B2BBFE}" />
+														<Child Name="btnQsShapeFinderB" Owner="{02E0C630-CC02-47B4-871B-4F208E9067B5}" />
+														<Child Name="btnQsColorFinderB" Owner="{87B180D8-0317-481F-8628-13676E653884}" />
+														<Child Name="msoSelectionPane" Owner="{936FA742-0110-4DED-9801-CD69E0E617CF}" />
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="toolbar3" Owner="{DD47876D-9872-44DC-8682-6951FE55E01C}">
+						<Child Name="Selection" Owner="{69FCD37B-5F40-4B02-9712-25E844481E74}">
+							<Child Name="NUIPane" Owner="{E3F0897F-954E-4908-A987-880A3C7E5F73}">
+								<Child Name="propertypageSelection" Owner="{D6750219-13E3-4B0B-9546-C731CD6080D6}">
+									<Child Name="buttonBringForward" Owner="{69D33CF8-79BB-455A-9D5D-BCB9974697FB}" />
+									<Child Name="buttonSendBackward" Owner="{E46DFD15-AA72-491E-8BFA-0BE8C49D6AF9}" />
+									<Child Name="outline" Owner="{254E4ED4-5C50-4736-85E7-809A04197132}">
+										<Child Name="client" Owner="{729BAC19-A54C-45FD-A6F4-659E942E63A3}">
+											<Child Name="outlineitemRectangle66" Owner="{12B05EFC-EFD8-4C87-AE74-A6160873EEAD}">
+												<Child Name="textRectangle66" Owner="{B9D954B5-ABAE-46B1-BA1A-81446506A994}" />
+											</Child>
+											<Child Name="outlineitemRectangle62" Owner="{FD4AF04A-44A3-4635-A6B0-5BAF9CAD761B}">
+												<Child Name="textRectangle62" Owner="{2AF46B2A-5029-4556-8F82-27427B90052F}" />
+											</Child>
+											<Child Name="outlineitemOval63" Owner="{FC4FFF1B-A7AB-4995-BC66-65F6AB63D215}">
+												<Child Name="textOval63" Owner="{AD8075EF-41D6-4A9B-89B8-13FDE45CEDF2}" />
 											</Child>
 										</Child>
 									</Child>

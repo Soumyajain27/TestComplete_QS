@@ -10,51 +10,32 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{6E8B12AE-2F8B-4AD3-8AB1-F9AAC6682685}" version="14">
 		<children>
-			<testItem name="ProjectTestItem1" key="{522D4E0F-A86A-463C-842B-F4D866B8FF31}" group="False" parallel="False" enabled="True" testMoniker="KDT\{01186CDF-0A1D-4E06-8E62-2101721F8E95}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="To Check ShapeFinder and ColorFinder" key="{522D4E0F-A86A-463C-842B-F4D866B8FF31}" group="False" parallel="False" enabled="True" testMoniker="KDT\{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem2" key="{4674CB65-18FE-4B2F-AEBE-7D49015D5141}" group="False" parallel="False" enabled="True" testMoniker="KDT\{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem3" key="{3C4531DB-DC4C-4FBC-B5B1-FBF27E4233C0}" group="False" parallel="False" enabled="True" testMoniker="KDT\{265A5971-7CFF-4F13-8D2D-346B4870133F}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem4" key="{5D82CF5E-DB7D-4ABE-94F1-B472FA6905AB}" group="False" parallel="False" enabled="True" testMoniker="KDT\{66B3FFA6-06F6-4A3F-A49D-D22C3350209D}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem5" key="{6B8F524F-086B-4FAD-A968-701B4A2A2810}" group="False" parallel="False" enabled="True" testMoniker="KDT\{39EE35D8-E630-4390-B9BE-BD886CFAD299}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem6" key="{6D23B7C7-FD5F-43A0-8488-E311C61B2B2C}" group="False" parallel="False" enabled="True" testMoniker="KDT\{CC8CB57C-0480-49E6-BC03-A12A93067A78}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem7" key="{52E0FA28-D24E-478F-AC7C-45F7AD30B7A1}" group="False" parallel="False" enabled="True" testMoniker="KDT\{90F6AE10-982D-4AA2-B259-424B91FA1B48}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem8" key="{9045933C-9EFA-4DA3-A086-44643F5B0B34}" group="False" parallel="False" enabled="True" testMoniker="KDT\{DCC1E7AA-0308-4BD1-93CA-F8C441634F99}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
+				<children>
+					<testItem name="Step2" key="{2378DD12-778B-4BA8-A111-D4C8726B4B21}" group="False" parallel="False" enabled="True" testMoniker="KDT\{BFF981E6-C7D4-4053-BE11-894034AFD18E}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="Step3" key="{66D2411B-10A1-4248-9AD7-5DE2D431D21E}" group="False" parallel="False" enabled="True" testMoniker="KDT\{E988B553-36FD-4521-BC39-F6FA899FACF8}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="Step4" key="{8F3E7DAC-4EE8-4D67-98D9-D179556422D2}" group="False" parallel="False" enabled="True" testMoniker="KDT\{AEB59B1B-CCC0-44EA-9A8F-D8387E33FA94}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+				</children>
 			</testItem>
 		</children>
 	</testItems>
 	<variables key="{3CCAE299-54FE-43AF-BEE3-2AD1BF9E525D}" />
 	<settings key="{8CF4A00E-D4C4-4B73-A80E-C63A2CA58466}">
-		<settingsVersion value="15.31" />
+		<settingsVersion value="15.40" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
@@ -619,6 +600,15 @@
 		</setting>
 		<setting name="Visualizer_UseDuringPlayback" type="1" value="True" />
 		<setting name="Visualizer_UseDuringRecording" type="1" value="True" />
+		<setting name="WebCloudProvider" type="6" rowIndex="1" colIndex="0">
+			<columns>
+				<column type="5" enabled="True" />
+			</columns>
+			<data>
+				<row val0="BitBar Cloud" />
+				<row val0="CrossBrowserTesting" />
+			</data>
+		</setting>
 		<setting name="ZFJ_Cycle" type="5" value="" />
 		<setting name="ZFJ_ExecutionStatus_Failed" type="5" value="FAIL" />
 		<setting name="ZFJ_ExecutionStatus_Passed" type="5" value="PASS" />

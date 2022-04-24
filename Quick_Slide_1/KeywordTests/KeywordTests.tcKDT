@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
-		<child name="Step1_VerifyQS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_VerifyQS_features.tcKDTest" />
+		<folder name="To Check Color Shape Finder and Panel Details">
+			<child name="Step1_Get_a_Blank_Layout" key="{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}" path="Step1_Get_a_Blank_Layout.tcKDTest" />
+			<child name="Step2_Insert_Rectangle" key="{BFF981E6-C7D4-4053-BE11-894034AFD18E}" path="Step2_Insert_Rectangle.tcKDTest" />
+			<child name="Step3_Insert_Oval_and_FillColor" key="{E988B553-36FD-4521-BC39-F6FA899FACF8}" path="Step3_Insert_Oval_and_FillColor.tcKDTest" />
+			<child name="Step4_Insert_Rectangle_of_Different_Size" key="{AEB59B1B-CCC0-44EA-9A8F-D8387E33FA94}" path="Step4_Insert_Rectangle_of_Different_Size.tcKDTest" />
+			<child name="Step5_Click_on_Edit_" key="{97174FD5-8602-4A47-B5AA-E9A810EE8326}" path="Step5_Click_on_Edit_.tcKDTest" />
+			<child name="Test2" key="{493B8FE0-998F-418D-A78C-ECA75330E014}" path="Test2.tcKDTest" />
+		</folder>
+		<child name="Step1_1_VerifyQS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_1_VerifyQS_features.tcKDTest" />
 		<child name="Step2_Check_GanttChartAssitant" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant.tcKDTest" />
 		<child name="Step3_check_Dataconnector" key="{265A5971-7CFF-4F13-8D2D-346B4870133F}" path="Step3_check_Dataconnector.tcKDTest" />
 		<child name="Step4_Check_WaterfallChatWizard" key="{66B3FFA6-06F6-4A3F-A49D-D22C3350209D}" path="Step4_Check_WaterfallChatWizard.tcKDTest" />
 		<child name="Step5_Check_New_Slide_open_via_QuickStart" key="{39EE35D8-E630-4390-B9BE-BD886CFAD299}" path="Step5_Check_New_Slide_open_via_QuickStart.tcKDTest" />
 		<child name="Step6_Check_Slide_get_added_via_SlidePool" key="{CC8CB57C-0480-49E6-BC03-A12A93067A78}" path="Step6_Check_Slide_get_added_via_SlidePool.tcKDTest" />
 		<child name="Step8_Check_Agenda_Get_added" key="{DCC1E7AA-0308-4BD1-93CA-F8C441634F99}" path="Step8_Check_Agenda_Get_added.tcKDTest" />
-		<child name="Step9_Check_Text_button_get_expanded_on_clicking_on_Text" key="{595152E3-BCB6-4333-B696-43F7E984BFC2}" path="Step9_Check_Text_button_get_expanded_on_clicking_on_Text.tcKDTest" />
-		<child name="Step9_1_Check_Allignment" key="{80FB52BF-BFFB-46B3-B55E-7ACBC3124736}" path="Step9_1_Check_Allignment.tcKDTest" />
+		<child name="Step1_2_Check_Allignment" key="{80FB52BF-BFFB-46B3-B55E-7ACBC3124736}" path="Step1_2_Check_Allignment.tcKDTest" />
 		<child name="Step9_2_Test_Oval" key="{E2CECE3B-45CF-4870-A401-6B50246A0F0E}" path="Step9_2_Test_Oval.tcKDTest" />
 		<child name="Test1" key="{514C0324-5A70-4967-A0FB-7255FD33ECAC}" path="Test1.tcKDTest" />
-		<child name="Test2" key="{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}" path="Test2.tcKDTest" />
 		<child name="Step9_2_Check_ShapeFillColor" key="{E0B395BD-6179-4562-839F-46BD3223E68A}" path="Step9_2_Check_ShapeFillColor.tcKDTest" />
 		<child name="Test3" key="{259D7ADA-DD58-40DE-9698-D97CDD59238E}" path="Test3.tcKDTest" />
 		<child name="Test4" key="{C64D4FAF-AA56-49A7-A96F-C15F80A52554}" path="Test4.tcKDTest" />
-		<child name="Step9_3_Check_TextHolder" key="{076FA579-AC77-475D-9195-D151B9208CCC}" path="Step9_3_Check_TextHolder.tcKDTest" />
+		<child name="Step1_3_Check_TextHolder" key="{076FA579-AC77-475D-9195-D151B9208CCC}" path="Step1_3_Check_TextHolder.tcKDTest" />
 		<child name="Test5" key="{891D23CA-C62F-4932-9D2E-4811594566EC}" path="Test5.tcKDTest" />
 	</children>
 </Root>

@@ -1,33 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
-	<TestData Description="" Key="{22EFFF16-0893-4021-B9DD-CAF5E9A61084}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+	<TestData Description="" Key="{B050D041-8AE7-4F3B-ACB7-3551A7B3A1E3}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
 		<Data>
 			<Extenders>
-				<NodeBitmaps>
-					<Bitmap Name="Aliases.POWERPNT" Data="61717A69700000000100000076060000780173F22D636300033320A901C42250CCC8A0006431303840E5C11C3A13CCACBC02A22A31056A4EABCF1B045DFE8F8C41622039901A629CC52FE914A0E373F43DB219D8D8203520B5F8CCE4E0554E10538DFB8F0B4BEB96A0B815648F909C7F02CC4C29ABEDEF65EC8EFC270ADBEC03DB83CDAD307712650E927D207763330FE4775078229B77ECFC87FF73563FC5EB565CE681EC00C511B279FF81006426B2183A1B9F79A07847560F32EFF1F31FFFFBE63FFA5FD876EBBF45D8690CB3F199077223BA792033914172D5351435A49A07F2AF96D789FF207340E0CAED2F28E6193814FDCFEEFF8F13A3BB0F39FC407E07016435A49A07320314C7207781C08EC36F89362FACE43C4A7C80DC868C41E682FC4EACFBF4EC0A50D20BB23E5C6C13D76AAC6197D2F6FE3D1B87800029F94DD1F90456B340F1A3A81380B55C90D2884C70CF79FB1F1D07947EC26996866902BC3C80950BC8B498A2578053EABDF7C86662330FE4475CEE42360FC46661E31390D7CF28B00C3F701E642EB279A07804853D28BCD0F5519B0F006C23DAD1" />
-				</NodeBitmaps>
+				<NodeBitmaps />
 			</Extenders>
 		</Data>
 		<Children>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; control." Action="Click" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodocktop.toolbar.Ribbon.NUIPane.propertypageRibbon.paneLowerRibbon.client.propertypageQuickslide.toolbarInsert.groupingSlide.dropdownbuttonSlide;" />
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.btnQsShapeFinderB;" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; control." Action="Click" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.NetUIToolWindow.popup.client.grouping.groupingNewSlide.dropdownbuttonNewSlide;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Selects the %p1 item of the &apos;%n&apos; select control." Action="ClickItem" InvokeKind="-1">
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="Blank" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.btnQsShapeFinderB" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Name" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="btnQsShapeFinderB" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.NetUIToolWindow.popup.listNewSlide;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="970" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="432" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.MDIClient.wndmdiClass;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="970" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="432" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.MDIClient.wndmdiClass;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.btnQsShapeFinderB;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.btnQsColorFinderB" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Name" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="btnQsColorFinderB" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1304" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="459" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.MDIClient.wndmdiClass;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.btnQsColorFinderB;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.msoSelectionPane" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Name" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="msoSelectionPane" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="11" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="13" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2.Edit.NUIPane.propertypageEdit.NetUICtrlNotifySink.CMMOcxHostChildWindowMixedMode.CMMOcxHost.Editing.panelBasic.msoSelectionPane;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Name" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Window(&quot;MsoCommandBar&quot;, &quot;Selection&quot;, 1)" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3.Selection.NUIPane.propertypageSelection.buttonBringForward;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3.Selection.NUIPane.propertypageSelection.buttonSendBackward;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3.Selection.NUIPane.propertypageSelection.outline.client.outlineitemRectangle66.textRectangle66" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Caption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Rectangle 66" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3.Selection.NUIPane.propertypageSelection.outline.client.outlineitemRectangle62.textRectangle62" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Caption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Rectangle 62" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3.Selection.NUIPane.propertypageSelection.outline.client.outlineitemOval63.textOval63" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Caption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Oval 63" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="284" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="27" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="193" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="25" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.POWERPNT.wndPPTFrameClass.panelMsodockright.toolbar2;" />
 				</Data>
 			</Operation>
 		</Children>
 	</TestData>
-	<Parameters Key="{582B7E26-F943-4BB8-8FF1-245851DE95F3}" />
+	<Parameters Key="{40ABA0D4-8133-4D1E-8985-1DF1770B1856}" />
 </Root>
