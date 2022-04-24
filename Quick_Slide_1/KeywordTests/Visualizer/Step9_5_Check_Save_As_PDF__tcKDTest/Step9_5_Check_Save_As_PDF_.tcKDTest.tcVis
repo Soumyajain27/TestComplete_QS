@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B4C9E3C6-0BFB-4627-A6C0-5E562BD5C275}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44671.327650463" objectName="Aliases.POWERPNT.wndPPTFrameClass.panelMsodocktop.toolbar.Ribbon.NUIPane.propertypageRibbon.paneLowerRibbon.client.propertypageQuickslide.toolbarFinalize.groupingSave.dropdownbuttonSave" objectLeft="974" objectTop="130" objectRight="1026" objectBottom="176" clickPointX="998" clickPointY="149" imageFileName="tcvi3531809375241.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44671.3278356481" objectName="Aliases.POWERPNT.wndNetUIToolWindow.popup.client.grouping2.menuitemSaveSelected" objectLeft="2" objectTop="149" objectRight="262" objectBottom="185" clickPointX="101" clickPointY="160" imageFileName="tcvi3533496875244.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44671.3281481481" objectName="Aliases.POWERPNT.dlgSaveAs.btnCancel" objectLeft="821" objectTop="543" objectRight="931" objectBottom="576" clickPointX="863" clickPointY="565" imageFileName="tcvi3536167175248.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

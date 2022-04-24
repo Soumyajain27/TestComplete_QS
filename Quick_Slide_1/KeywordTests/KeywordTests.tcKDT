@@ -26,5 +26,8 @@
 		<child name="Test4" key="{C64D4FAF-AA56-49A7-A96F-C15F80A52554}" path="Test4.tcKDTest" />
 		<child name="Step1_3_Check_TextHolder" key="{076FA579-AC77-475D-9195-D151B9208CCC}" path="Step1_3_Check_TextHolder.tcKDTest" />
 		<child name="Test5" key="{891D23CA-C62F-4932-9D2E-4811594566EC}" path="Test5.tcKDTest" />
+		<child name="Step9_4_Check_Spelling_Pane_open_and_provide_suggestions" key="{62E5824A-0977-46E3-8E1A-5F19860E4345}" path="Step9_4_Check_Spelling_Pane_open_and_provide_suggestions.tcKDTest" />
+		<child name="Step9_5_Check_Save_As_PDF_" key="{B4C9E3C6-0BFB-4627-A6C0-5E562BD5C275}" path="Step9_5_Check_Save_As_PDF_.tcKDTest" />
+		<child name="Test6" key="{2E0F956D-9BD1-4AD8-B658-F67555980F73}" path="Test6.tcKDTest" />
 	</children>
 </Root>
