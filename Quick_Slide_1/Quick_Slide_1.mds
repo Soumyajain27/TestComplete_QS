@@ -29,6 +29,26 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
+					<testItem name="Step5" key="{B1156EDF-53B9-4A1C-8867-36B31D79E9F7}" group="False" parallel="False" enabled="True" testMoniker="KDT\{97174FD5-8602-4A47-B5AA-E9A810EE8326}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="Step6" key="{A99EECA8-93A9-4E86-A0DF-691777D197B6}" group="False" parallel="False" enabled="True" testMoniker="KDT\{493B8FE0-998F-418D-A78C-ECA75330E014}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="Step7" key="{BDE011C4-5E69-40D2-A621-A68D40739421}" group="False" parallel="False" enabled="True" testMoniker="KDT\{3344D542-9269-43F6-9985-2FBB348F9E2F}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="Step8" key="{F35C9ADC-B628-429E-9AA3-111A196433F2}" group="False" parallel="False" enabled="True" testMoniker="KDT\{84B94102-B7B7-44C0-9001-A869BACBB263}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
 				</children>
 			</testItem>
 		</children>

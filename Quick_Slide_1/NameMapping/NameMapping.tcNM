@@ -1287,9 +1287,231 @@
 																									</Child>
 																								</Children>
 																							</Child>
+																							<Child Name="outlineitemOval4Hidden" Key="{8C4A3700-5434-49CF-869C-AAED931E022E}">
+																								<Image FileName="-1210887886" Left="1643" Top="305" Right="1904" Bottom="335" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle * Hidden" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{9FD27CB3-52E1-4983-AA21-264A1E82B275}">
+																										<Image FileName="-1210887886" Left="1849" Top="309" Right="1869" Bottom="331" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemRectangle6Hidden" Key="{2674A7A0-B69E-4DD8-A83E-201D9FB1CE1D}">
+																								<Image FileName="-678440316" Left="1643" Top="335" Right="1904" Bottom="365" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle * Hidden" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{BB7A2D65-05E4-440A-9236-5336CCCC7498}">
+																										<Image FileName="-678440316" Left="1849" Top="339" Right="1869" Bottom="361" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																											<Property Name="Name">
+																												<Value Value="Button(&quot;Visible&quot;)" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemRectangle3Hidden" Key="{B4502667-E9E9-42F7-A7C7-F6091F31EFA2}">
+																								<Image FileName="-2062883506" Left="1643" Top="365" Right="1904" Bottom="395" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle * Hidden" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{8A60264A-9B71-4300-A81D-C3EFEA8E4BF9}">
+																										<Image FileName="-2062883506" Left="1849" Top="369" Right="1869" Bottom="391" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemOval4" Key="{8B9556AF-0179-4D0E-B341-1BFE15E065FF}">
+																								<Image FileName="370478981" Left="1643" Top="305" Right="1904" Bottom="335" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="*" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{3530B016-9F13-4B98-B5CE-B7A0A31592ED}">
+																										<Image FileName="370478981" Left="1849" Top="309" Right="1869" Bottom="331" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="*" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemRectangle6" Key="{7255550A-8A47-41FA-908D-DF48C6FB8879}">
+																								<Image FileName="-976394111" Left="1643" Top="335" Right="1904" Bottom="365" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="*" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{A61203FE-FA1F-4EA2-99A8-8C0DD03BB785}">
+																										<Image FileName="-976394111" Left="1849" Top="339" Right="1869" Bottom="361" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="outlineitemRectangle3" Key="{4AEBFD8B-11E2-4E9A-ABBF-898E64F64F27}">
+																								<Image FileName="-1680546673" Left="1643" Top="365" Right="1904" Bottom="395" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="OutlineItem" />
+																									</Property>
+																									<Property Name="Caption">
+																										<Value Value="Rectangle *" />
+																									</Property>
+																									<Property Name="ObjectGroupIndex">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="buttonVisible" Key="{41E3169B-8014-4F30-B9DD-9B43677875C9}">
+																										<Image FileName="-1680546673" Left="1849" Top="369" Right="1869" Bottom="391" />
+																										<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Visible" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
 																						</Children>
 																					</Child>
 																				</Children>
+																			</Child>
+																			<Child Name="buttonShowAll" Key="{9457F86E-9E2A-432A-B4A5-04FEE05EAE4B}">
+																				<Image FileName="358441589" Left="1622" Top="257" Right="1702" Bottom="288" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="Show All" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="buttonHideAll" Key="{E353356A-0F7C-42AD-B074-86A99E827743}">
+																				<Image FileName="358441589" Left="1706" Top="257" Right="1782" Bottom="288" />
+																				<TypeInfo Item0="{3D316AE0-88FC-451C-86B3-7EBB4C8D8DB5}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="Caption">
+																						<Value Value="Hide All" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
 																			</Child>
 																		</Children>
 																	</Child>
@@ -3536,8 +3758,28 @@
 											<Child Name="outlineitemOval63" Owner="{FC4FFF1B-A7AB-4995-BC66-65F6AB63D215}">
 												<Child Name="textOval63" Owner="{AD8075EF-41D6-4A9B-89B8-13FDE45CEDF2}" />
 											</Child>
+											<Child Name="outlineitemOval4Hidden" Owner="{8C4A3700-5434-49CF-869C-AAED931E022E}">
+												<Child Name="buttonVisible" Owner="{9FD27CB3-52E1-4983-AA21-264A1E82B275}" />
+											</Child>
+											<Child Name="outlineitemRectangle6Hidden" Owner="{2674A7A0-B69E-4DD8-A83E-201D9FB1CE1D}">
+												<Child Name="buttonVisible" Owner="{BB7A2D65-05E4-440A-9236-5336CCCC7498}" />
+											</Child>
+											<Child Name="outlineitemRectangle3Hidden" Owner="{B4502667-E9E9-42F7-A7C7-F6091F31EFA2}">
+												<Child Name="buttonVisible" Owner="{8A60264A-9B71-4300-A81D-C3EFEA8E4BF9}" />
+											</Child>
+											<Child Name="outlineitemOval4" Owner="{8B9556AF-0179-4D0E-B341-1BFE15E065FF}">
+												<Child Name="buttonVisible" Owner="{3530B016-9F13-4B98-B5CE-B7A0A31592ED}" />
+											</Child>
+											<Child Name="outlineitemRectangle6" Owner="{7255550A-8A47-41FA-908D-DF48C6FB8879}">
+												<Child Name="buttonVisible" Owner="{A61203FE-FA1F-4EA2-99A8-8C0DD03BB785}" />
+											</Child>
+											<Child Name="outlineitemRectangle3" Owner="{4AEBFD8B-11E2-4E9A-ABBF-898E64F64F27}">
+												<Child Name="buttonVisible" Owner="{41E3169B-8014-4F30-B9DD-9B43677875C9}" />
+											</Child>
 										</Child>
 									</Child>
+									<Child Name="buttonShowAll" Owner="{9457F86E-9E2A-432A-B4A5-04FEE05EAE4B}" />
+									<Child Name="buttonHideAll" Owner="{E353356A-0F7C-42AD-B074-86A99E827743}" />
 								</Child>
 							</Child>
 						</Child>

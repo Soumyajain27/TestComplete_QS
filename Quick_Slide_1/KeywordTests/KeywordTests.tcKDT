@@ -7,7 +7,9 @@
 			<child name="Step3_Insert_Oval_and_FillColor" key="{E988B553-36FD-4521-BC39-F6FA899FACF8}" path="Step3_Insert_Oval_and_FillColor.tcKDTest" />
 			<child name="Step4_Insert_Rectangle_of_Different_Size" key="{AEB59B1B-CCC0-44EA-9A8F-D8387E33FA94}" path="Step4_Insert_Rectangle_of_Different_Size.tcKDTest" />
 			<child name="Step5_Click_on_Edit_" key="{97174FD5-8602-4A47-B5AA-E9A810EE8326}" path="Step5_Click_on_Edit_.tcKDTest" />
-			<child name="Test2" key="{493B8FE0-998F-418D-A78C-ECA75330E014}" path="Test2.tcKDTest" />
+			<child name="Step6_Check_Shape_Finder" key="{493B8FE0-998F-418D-A78C-ECA75330E014}" path="Step6_Check_Shape_Finder.tcKDTest" />
+			<child name="Step7_Check_Color_Finder" key="{3344D542-9269-43F6-9985-2FBB348F9E2F}" path="Step7_Check_Color_Finder.tcKDTest" />
+			<child name="Step8_Check_Selection_Pane" key="{84B94102-B7B7-44C0-9001-A869BACBB263}" path="Step8_Check_Selection_Pane.tcKDTest" />
 		</folder>
 		<child name="Step1_1_VerifyQS_features" key="{01186CDF-0A1D-4E06-8E62-2101721F8E95}" path="Step1_1_VerifyQS_features.tcKDTest" />
 		<child name="Step2_Check_GanttChartAssitant" key="{C4A3EC6A-0BC3-4114-BAF7-A81D42F0C727}" path="Step2_Check_GanttChartAssitant.tcKDTest" />
