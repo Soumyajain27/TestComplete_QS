@@ -10,7 +10,12 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{6E8B12AE-2F8B-4AD3-8AB1-F9AAC6682685}" version="14">
 		<children>
-			<testItem name="To Check ShapeFinder and ColorFinder" key="{522D4E0F-A86A-463C-842B-F4D866B8FF31}" group="False" parallel="False" enabled="True" testMoniker="KDT\{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="1.OpenPowerpoint" key="{B4862090-F95F-42DD-BDB2-CDD2E693EBB7}" group="False" parallel="False" enabled="True" testMoniker="KDT\{01186CDF-0A1D-4E06-8E62-2101721F8E95}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+			<testItem name="2.To Check ShapeFinder and ColorFinder" key="{522D4E0F-A86A-463C-842B-F4D866B8FF31}" group="False" parallel="False" enabled="True" testMoniker="KDT\{2D56DB6B-BD32-4B79-8D0E-0E30455DEFD6}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children>

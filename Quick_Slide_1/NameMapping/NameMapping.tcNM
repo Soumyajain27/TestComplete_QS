@@ -748,6 +748,21 @@
 																													</Property>
 																												</Properties>
 																											</Child>
+																											<Child Name="button" Key="{03D72A10-164B-4EE1-9C0C-EA06502A9CD3}">
+																												<Image FileName="888013784" Left="933" Top="93" Right="961" Bottom="122" />
+																												<TypeInfo Item0="{D399E22D-1EBA-4CD0-8638-763F270B0441}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Button" />
+																													</Property>
+																													<Property Name="ControlIndex">
+																														<Value Value="13" Type="0" />
+																													</Property>
+																													<Property Name="ObjectGroupIndex">
+																														<Value Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
 																										</Children>
 																									</Child>
 																								</Children>
@@ -1520,6 +1535,18 @@
 														</Children>
 													</Child>
 												</Children>
+											</Child>
+											<Child Name="toolbar4" Key="{4E63140E-ADDF-41E4-8F8B-F498A729F6BB}">
+												<Image FileName="-1548817913" Left="1565" Top="201" Right="1920" Bottom="1003" />
+												<TypeInfo Item0="{8EC15A08-61DA-471D-8105-53FC2A8A43B9}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Design Ideas" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -2793,6 +2820,36 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="menuitemPoolFullScreen" Key="{2DC97040-F6C1-4A2C-B0EB-CA07AE03FE92}">
+																<Image FileName="-1561049571" Left="2" Top="2" Right="198" Bottom="38" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Pool (full screen)" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="menuitemPoolSidebar" Key="{E5C627F8-4F2C-4066-BDDE-D8A9B0A92FF6}">
+																<Image FileName="1686341187" Left="2" Top="38" Right="198" Bottom="74" />
+																<TypeInfo Item0="{B9452F75-EC78-4B1D-90F1-D262E69755A9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="MenuItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Pool (sidebar)" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -3452,6 +3509,112 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="HwndSource_StartUpWindow" Key="{13DD7011-2ABF-460E-A0D6-E1EF5D3794A8}">
+								<Image FileName="-2009339919" Left="0" Top="0" Right="1536" Bottom="824" />
+								<TypeInfo Item0="{7429496D-2988-48CA-8590-3F7E7EED2F0C}" />
+								<Properties>
+									<Property Name="RootVisual.Name">
+										<Value Value="StartUpWindow" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="StartUpWindow_" Key="{ECAFB88C-E3DA-4431-A378-CE562FAC9116}">
+										<Image FileName="-2009339919" Left="0" Top="0" Right="1537" Bottom="825" />
+										<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="StrategyCompass.QuickTools.StartUp.UI.Views.StartUpView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Grid" Key="{9B6382C2-392B-4C61-B004-ECEA074BC611}" ExtendedFind="True">
+												<Image FileName="-2009339919" Left="0" Top="0" Right="1537" Bottom="825" />
+												<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Grid" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Border" Key="{26BEC92B-FEC1-4560-8390-4863E195F90B}">
+														<Image FileName="-2009339919" Left="0" Top="0" Right="1537" Bottom="825" />
+														<TypeInfo Item0="{742F93DE-CF22-4EB1-8F63-F3FB84F1B556}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="System.Windows.Controls.Border" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="LabelQuickslide" Key="{10480764-D104-4EC2-9530-892EF2CE40F5}" ExtendedFind="True">
+																<Image FileName="1202200777" Left="1" Top="1" Right="385" Bottom="82" />
+																<TypeInfo Item0="{B345A89C-D415-449C-A3A1-7620AE566CD1}" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="System.Windows.Controls.Label" />
+																	</Property>
+																	<Property Name="WPFControlText">
+																		<Value Value="QuickSlide" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="Button" Key="{38C885E4-3067-4478-8034-1631631F894F}" ExtendedFind="True">
+																<Image FileName="-1814723512" Left="1471" Top="1" Right="1504" Bottom="82" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="System.Windows.Controls.Button" />
+																	</Property>
+																	<Property Name="WPFControlText">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="StartUpWindow" Key="{5F603531-FADB-4972-9993-1FFC01AB511B}">
+										<Image FileName="-669017322" Left="0" Top="0" Right="1921" Bottom="1031" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="StrategyCompass.QuickTools.Pool.UI.Views.DashboardView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Button" Key="{F30D344F-A2C9-40C9-925D-6E53BDBC3F97}" ExtendedFind="True">
+												<Image FileName="1076961614" Left="1758" Top="1" Right="1839" Bottom="82" />
+												<TypeInfo Item0="{0C0B5BE2-5145-41E3-8B5F-F8B820F824B7}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Button" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="" />
+													</Property>
+													<Property Name="WPFControlOrdinalNo">
+														<Value Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Button2" Key="{BDE95E5B-5ECF-4532-A5C3-2412FFDC7935}" ExtendedFind="True">
+												<Image FileName="687239284" Left="1838" Top="1" Right="1919" Bottom="82" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Button" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="" />
+													</Property>
+													<Property Name="WPFControlOrdinalNo">
+														<Value Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="OUTLOOK" Key="{B95AE2BB-C697-4EE1-BAD6-CFC90CB29A32}">
@@ -3689,6 +3852,7 @@
 														<Child Name="splitbuttonShapeOutline" Owner="{836C909A-4F6E-4F28-9F69-5506A54B86BB}" />
 													</Child>
 													<Child Name="buttonDataConnector" Owner="{4E7875EA-6F9D-421D-969D-B7882A0247B6}" />
+													<Child Name="button" Owner="{03D72A10-164B-4EE1-9C0C-EA06502A9CD3}" />
 												</Child>
 											</Child>
 										</Child>
@@ -3784,6 +3948,7 @@
 							</Child>
 						</Child>
 					</Child>
+					<Child Name="toolbar4" Owner="{4E63140E-ADDF-41E4-8F8B-F498A729F6BB}" />
 				</Child>
 				<Child Name="MDIClient" Owner="{587ABCC9-57FB-4F28-9BEF-D0AAB75CF679}">
 					<Child Name="wndmdiClass" Owner="{329417FE-D3DD-4DAF-8B12-B39428F3071B}" />
@@ -3819,6 +3984,8 @@
 								<Child Name="dropdownbuttonNewSlide" Owner="{77E20F93-7FA9-4162-9DAC-9D72A92F9BB7}" />
 							</Child>
 							<Child Name="menuitemLayout" Owner="{FA56D5F8-570B-47C4-9452-0D5CD50A310A}" />
+							<Child Name="menuitemPoolFullScreen" Owner="{2DC97040-F6C1-4A2C-B0EB-CA07AE03FE92}" />
+							<Child Name="menuitemPoolSidebar" Owner="{E5C627F8-4F2C-4066-BDDE-D8A9B0A92FF6}" />
 						</Child>
 					</Child>
 					<Child Name="listShapes" Owner="{D1E130E6-1787-4015-BD71-C6C5F35B4312}">
@@ -3897,6 +4064,18 @@
 				</Child>
 				<Child Name="panBottom" Owner="{8FA0F50C-FEE3-46CF-A1B3-AF9E4E9186C5}">
 					<Child Name="btnInsert" Owner="{1FDF7278-3F02-4B22-B4E6-80854FFBCB80}" />
+				</Child>
+			</Child>
+			<Child Name="HwndSource_StartUpWindow" Owner="{13DD7011-2ABF-460E-A0D6-E1EF5D3794A8}">
+				<Child Name="StartUpWindow_" Owner="{ECAFB88C-E3DA-4431-A378-CE562FAC9116}">
+					<Child Name="Border" Owner="{26BEC92B-FEC1-4560-8390-4863E195F90B}">
+						<Child Name="LabelQuickslide" Owner="{10480764-D104-4EC2-9530-892EF2CE40F5}" />
+						<Child Name="Button" Owner="{38C885E4-3067-4478-8034-1631631F894F}" />
+					</Child>
+				</Child>
+				<Child Name="StartUpWindow" Owner="{5F603531-FADB-4972-9993-1FFC01AB511B}">
+					<Child Name="Button" Owner="{F30D344F-A2C9-40C9-925D-6E53BDBC3F97}" />
+					<Child Name="Button2" Owner="{BDE95E5B-5ECF-4532-A5C3-2412FFDC7935}" />
 				</Child>
 			</Child>
 		</Child>
